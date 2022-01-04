@@ -3,7 +3,7 @@ body {
   color: #373737;
   max-width: 750px;
   margin: auto;
-  padding: 1em;
+  padding: 0 1em 1em 1em;
 }
 
 /* header and footer areas */
@@ -83,4 +83,18 @@ thead, tfoot, tr:nth-child(even) { background: #eee; }
 }
 .font-normal {
   font-weight: 400;
+}
+
+/* header cta */
+.cta {
+  text-align: center;
+  background-color: #373737;
+  padding: 1rem;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+
+.cta a{
+  color: #EDEDED;
 }
