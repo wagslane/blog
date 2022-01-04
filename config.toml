@@ -1,7 +1,6 @@
 baseURL = 'https://wagslane.dev/'
 languageCode = 'en-us'
 title = "Lane's Ramblings"
-theme = ''
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = []
