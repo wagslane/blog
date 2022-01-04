@@ -1,0 +1,54 @@
+baseURL = 'https://wagslane.dev/'
+languageCode = 'en-us'
+title = "Lane's Ramblings"
+theme = ''
+googleAnalytics = ""
+disqusShortname = ""
+ignoreFiles = []
+footnotereturnlinkcontents = "↩"
+
+[taxonomies]
+  tag = "tags"
+
+[permalinks]
+note = "/note/:slug/"
+post = "/post/:slug/"
+
+[[menu.main]]
+name = "Articles"
+url = ""
+weight = 1
+
+[[menu.main]]
+name = "Tags"
+url = "tags/"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "about/"
+weight = 3
+
+[[menu.main]]
+name = "RSS"
+url = "index.xml"
+
+[params]
+description = "A website built through Hugo and blogdown."
+footer = "&copy; [Lane Wagner](https://wagslane.dev) {Year} | [Github](https://github.com/wagslane) | [Twitter](https://twitter.com/wagslane)"
+
+[markup.highlight]
+anchorLineNos = false
+codeFences = true
+guessSyntax = false
+hl_Lines = ""
+lineAnchors = ""
+lineNoStart = 1
+lineNos = false
+lineNumbersInTable = true
+noClasses = true
+style = "monokai"
+tabWidth = 4
+
+[markup.goldmark.renderer]
+unsafe = true
