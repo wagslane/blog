@@ -1,6 +1,10 @@
 body {
   background-color: #EDEDED;
   color: #373737;
+  margin: 0;
+}
+
+.contained {
   max-width: 750px;
   margin: auto;
   padding: 0 1em 1em 1em;
@@ -95,6 +99,6 @@ thead, tfoot, tr:nth-child(even) { background: #eee; }
   top: 0;
 }
 
-.cta a{
+.cta a {
   color: #EDEDED;
 }
