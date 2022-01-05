@@ -1,7 +1,7 @@
 ---
 title: Continuous Deployments != Continuous Disruptions
 draft: false
-date: 2021-05-12
+date: 2021-04-12
 description: Data at rest is more dangerous than data in motion.
 author: Lane Wagner
 tags:
