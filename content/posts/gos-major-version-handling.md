@@ -66,9 +66,9 @@ The second option is to change the name of your module in `go.mod`. Fore example
 ### Why does this suck?
 
 * **It's hardly intuitive.** Newcomers to the Go ecosystem are going to have to learn this weird convention that's *almost completely* enforced by the toolchain. I found myself starting at my command line in confusion when trying to get to a next major version until I went and read through all the documentation.
-* **Users of packages aren't alerted about new major versins** Because the import path is completely different, when users type `go get -u`, expecting to get the latest version of a package, they won't even get a command-line warning that a new major version exists. I understand not auto-updating, but at least tell me that I'm behind the curve.
+* **Users of packages aren't alerted about new major versions** Because the import path is completely different, when users type `go get -u`, expecting to get the latest version of a package, they won't even get a command-line warning that a new major version exists. I understand not auto-updating, but at least tell me that I'm behind the curve.
 * **For the client to update, it's not a simple path change in go.mod** Users actually need to `grep` through their codebase and change each import statement to point to the new major version, it's a terrible developer experience.
-* **It's overkill for small or internal packages** I work on a team that maintains many microservices, and we have a couple packages that are internal to our org but are shared by various projects. Due to our size, we don't need any kind of backwards compatibility, we just update everything. It's quite annoying to have the overbearing rules when we simply don't care.
+* **It's overkill for small or internal packages.** I work on a team that maintains many microservices, and we have a couple packages that are internal to our org but are shared by various projects. Due to our size, we don't need any kind of backwards compatibility, we just update everything. It's quite annoying to have the overbearing rules when we simply don't care.
 
 ## Some ideas for the way I wish it were
 
@@ -82,7 +82,7 @@ This all comes down to a fundamental issue I have with the "import compatibility
 > 
 > [Import compatibility rule](https://research.swtch.com/vgo-import)
 
-I agree with the sentiment that we should only increment major versions when making breaking changes, but more often than not breaking changes are **really easy** to accomodate for. Go is a strongly typed language, and almost all breaking changes will cause compiler errors that are simple to fix. This kind of rule would add a lot more value to a language like Python or JavaScript.
+I agree with the sentiment that we should only increment major versions when making breaking changes, but more often than not breaking changes are **really easy** to accommodate for. Go is a strongly typed language, and almost all breaking changes will cause compiler errors that are simple to fix. This kind of rule would add a lot more value to a language like Python or JavaScript.
 
 ### A Caveat - Diamond Imports
 
