@@ -1,5 +1,5 @@
 ---
-title: The most annoying thing to hear after leaving Mornmonism
+title: The Craziest Thing to Hear After Leaving Mornmonism
 draft: false
 date: 2022-03-05
 description: Your religion isn't the only sane one
@@ -14,7 +14,7 @@ audio: []
 
 I grew up a faithful member of the Church of Jesus Christ of Latter Day Saints, or the Mormon Church for short. I went to church weekly, paid tithing, and even served a 2-year proselyting and service mission in Paraguay from when I was 18 until I was 20. A few years after returning home, I ended op leaving the church after a long process of research that led me to the conclusion that the Mormon Church almost certainly wasn't "the true church". The reasons behind my departure I'll save for another time, but suffice it to say that since leaving I now label myself an agnostic atheist.
 
-Before getting to the "annoying thing" that prompted me to sit down and write this article, let's set the stage by discussing how different kinds of people in my life responded to the news that I was done with religion.
+Before getting to the "crazy thing" that prompted me to sit down and write this article, let's set the stage by discussing how different kinds of people in my life responded to the news that I was done with religion.
 
 ## Active members of the Mormon Church
 
