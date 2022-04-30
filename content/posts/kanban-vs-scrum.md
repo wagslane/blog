@@ -12,7 +12,7 @@ series: []
 audio: []
 ---
 
-Agile is great and has made software development more fun and productive while simultaneously less punitive and slow. Let's discuss why I generally prefer Kanban to Scrum. If you’ve read my [first article](posts/leave-scrum-to-rugby), you’ll know I’m not Scrum’s biggest fan.
+Agile development is fantastic and has made software development more fun and productive while simultaneously less punitive and slow. While I'm a fan of Agile, I'm not a huge fan of one of it's more common interpretations - a Scrum-based workflow. Let's discuss why I generally prefer a "Kanban" workflow to traditional Scrum. If you’ve read my [first article](posts/leave-scrum-to-rugby), you’ll know I’m not Scrum’s biggest fan.
 
 ## What is Agile Development?
 
@@ -42,7 +42,7 @@ Assuming you agree with the majority of these principles, the question is, how d
 
 ## Kanban vs Scrum
 
-Kanban and scrum are two of the most popular strategies for putting Agile principles into practice. In my geographic area and perhaps generally, it seems scrum is, unfortunately, more popular. I believe this is not because Scrum is better, but because it makes managers feel better. I’ve already pointed out most of my problems with [Scrum here](/posts/leave-scrum-to-rugby), so instead, in this article, I’ll try to focus on why I believe Kanban methods are more Agile. That said, I think every organization will have different needs depending on culture, preferences, size, etc.
+Kanban and scrum are two of the most popular strategies for putting Agile principles into practice. In my geographic area and perhaps generally, it seems Scrum is, unfortunately, more popular. I don't think it's because Scrum is better, but because it makes *managers feel better*. I’ve already pointed out most of my problems with [Scrum here](/posts/leave-scrum-to-rugby), so instead, in this article, I’ll try to focus on why I believe Kanban methods are more Agile. That said, I think every organization will have different needs depending on culture, preferences, size, etc.
 
 Here are some quick definitions of Scrum and Kanban, but if you’re not familiar with the systems you may want to read up on them in more detail as well.
 
@@ -83,13 +83,13 @@ Atlassian has a [great comparison chart](https://www.atlassian.com/agile/kanban/
 | Change philosophy   | Teams should not make changes during the sprint.  | Change can happen at any time |
 |                     |
 
-At first glance, Kanban at the very least appears more Agile, but let’s go over some critical points in more detail.
+At first glance, Kanban at the very least *appears* more Agile, but let’s go over some critical points in more detail.
 
 ## Continuous Flow
 
 As I explain in my criticism of Scrum, Scrum inserts artificial stopping points in the middle of the development lifecycle. The purpose of the sprints is to remind the team to go back and get feedback from customers at the end of each cycle and use that feedback as input to the next cycle.
 
-While feedback is of utmost importance, I’ve found that few teams actually go talk to customers in-between sprints. The underlying assumption that’s incorrect is that getting customer feedback can be scheduled. Instead, Kanban takes a more realistic approach and does it without adding stopping points to slow everything down.
+While feedback is of utmost importance, I’ve found that few teams actually go talk to customers in-between sprints. The underlying incorrect assumption is that getting customer feedback can (or should) be scheduled on a regular cadence. Instead, Kanban takes a more realistic approach and solicits customer feedback constantly without adding stopping points to slow everything down.
 
 In Kanban, we create a task, and we’re always getting customer feedback. The instant the feedback indicates that it’s time to pivot, we just pivot. Sometimes that means throwing away a task or changing its direction completely. That’s okay. Most importantly, we can just get our tasks done, we don’t have to break them down artificially, have meetings to talk about burndowns, or pretend we can estimate their duration using t-shirt sizes.
 
@@ -102,17 +102,17 @@ Kanban places emphasis on continuous integration and delivery. If you’re a fan
 * **Engineers are happier and more productive.** Engineers like to see the code they’ve worked on be deployed and get used by people. With long release cycles, it takes longer to get that dopamine hit. Easy and frequent deployments to production make happy engineers, and happy engineers stick around.
 * **Higher code quality.** If we think of each deployment as the code going through the car wash then it makes sense that more frequent and easy deploys will keep the codebase cleaner. I have a couple of small refactors I want to get in, is it worth it if I have to wait two weeks to get them merged in? By then I will likely have a merge conflict or two.
 
-## No Required Roles
+## No required roles
 
-Scrum has a product owner, a project manager (dubbed the scrum master), and a development team. Kanban has team members. There actually isn’t much to say here other than [hands-off project managers](https://qvault.io/misc/managers-code/) are a mistake.
+Scrum has a product owner, a project manager (dubbed the scrum master), and a development team. Kanban has team members. There actually isn’t much to say here other than what I've already said about [hands-off project managers](https://qvault.io/misc/managers-code/) being a mistake.
 
-My main criticism of the way many Scrum teams are organized is that the person who’s responsible for timelines doesn’t have the product knowledge to know why we are working on y next, or the technical knowledge to understand why x is taking so long.
+My main criticism of the way many Scrum teams are organized is that the person who is responsible for timelines often doesn’t have the product knowledge or technical chops to understand what's going on. They should know why we are working on a certain feature or bug next and ideally even have the technical knowledge to understand why all of this coding stuff is taking so long.
 
 ## Estimates
 
-In Kanban, we don’t take estimates as seriously as most Scrum teams do. I’m not sure if this is actually a Kanban vs Scrum idea – but I’ll say what I personally think on the subject.
+When I work, I don’t take estimates as seriously as most Scrum teams do. I’m not sure if this is actually a Kanban vs Scrum idea – but I'll give you my personal 2 cents.
 
-Estimates are a necessary component of running a business. We need to have an idea of how long a feature will take to release. If we’ve concluded a feature can add $150,000 of revenue each year, that may be great if it takes 2 weeks to get it out the door, but is a horrible time investment if it will take 2 years to complete.
+Estimates are a necessary component of running a business. We need to have an idea of how soon we can have a feature in customer's hands. If we’ve concluded a feature can add $150,000 of revenue each year, that may be great if it takes 2 weeks to get it out the door, but is a horrible time investment if it will take 2 years to complete.
 
 My opinions with estimates are the following:
 
