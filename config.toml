@@ -1,6 +1,6 @@
 baseURL = 'https://wagslane.dev/'
 languageCode = 'en-us'
-title = "Lane Wagner"
+title = "Lane's Blog"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = []
@@ -33,7 +33,7 @@ name = "RSS"
 url = "index.xml"
 
 [params]
-description = "A website built through Hugo and blogdown."
+description = "I write about code, business, philosophy, or whatever else is interesting to me"
 footer = "&copy; [Lane Wagner](https://wagslane.dev) {Year} | [Github](https://github.com/wagslane) | [Twitter](https://twitter.com/wagslane)"
 
 [markup.highlight]
