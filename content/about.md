@@ -11,6 +11,6 @@ Feel free to subscribe directly to my [RSS feed](/index.xml) if you enjoy my pos
 
 ## Current projects
 
-I've been hacking on [Qvault.io](https://qvault.io) for the last year or so because I think education, especially higher education for programmers, is *broken*.
+I've been hacking on [Boot.dev](https://boot.dev) for the last year or so because I think education, especially higher education for programmers, is *broken*.
 
 I'm also employed as the Head of Engineering at a seed-stage startup in the bay area.

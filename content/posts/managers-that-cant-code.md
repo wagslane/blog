@@ -35,7 +35,7 @@ I am a firm believer in the following:
 
 While the manager doesn’t need to be the most talented developer on the team, they must at least be technically literate. When a team member goes to their boss with a technical proposal, the manager should be able to give valuable feedback.
 
-In this [study from Harvard](https://hbr.org/2016/12/if-your-boss-could-do-your-job-youre-more-likely-to-be-happy-at-work) 35,000 employees from the US and Great Britain were polled about their job satisfaction, and metrics were gathered about what influenced their happiness at work. The results showed that the single greatest influencing factor on employee satisfaction was whether or not their boss was technically competent. I practice what I preach, so at [Qvault](https://qvault.io), all engineering leadership will forever be responsible for pushing code.
+In this [study from Harvard](https://hbr.org/2016/12/if-your-boss-could-do-your-job-youre-more-likely-to-be-happy-at-work) 35,000 employees from the US and Great Britain were polled about their job satisfaction, and metrics were gathered about what influenced their happiness at work. The results showed that the single greatest influencing factor on employee satisfaction was whether or not their boss was technically competent. I practice what I preach, so at [Boot.dev](https://boot.dev), all engineering leadership will forever be responsible for pushing code.
 
 Contrast the idea of a competent boss with the all-too-familiar experience of going to a non-technical middle-management type with an engineering problem, only to be stuck in a teaching session because the boss has never heard of a pub-sub system.
 

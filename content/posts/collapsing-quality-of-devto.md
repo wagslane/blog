@@ -29,7 +29,7 @@ Dev.to has always seemed to be geared towards beginners, and there’s nothing w
 
 ## What went wrong?
 
-Building a great platform is hard, but building an engaging and worthwhile community on that platform is much harder. There is a constant yin/yang relationship between content [moderation and censorship needs](https://qvault.io/misc/online-misinformation-and-censorship/), whether most of the moderation decisions are made by the platform itself or are crowdsourced by the users. Dev.to did an amazing thing by focusing its branding and growth strategy around newer developers. **The content on Dev.to was almost exclusively entry-level JavaScript content, by beginners, for beginners.**
+Building a great platform is hard, but building an engaging and worthwhile community on that platform is much harder. There is a constant yin/yang relationship between content [moderation and censorship needs](https://blog.boot.dev/misc/online-misinformation-and-censorship/), whether most of the moderation decisions are made by the platform itself or are crowdsourced by the users. Dev.to did an amazing thing by focusing its branding and growth strategy around newer developers. **The content on Dev.to was almost exclusively entry-level JavaScript content, by beginners, for beginners.**
 
 It all went south when the community reached a point where writers realized that it’s easy to write low-effort content that will be liked by brand-new programmers, even if you’re brand new yourself. I’m not saying new devs shouldn’t be writing, I absolutely think they should. It’s that the return on investment of writing clickbaity listicles on Dev.to is much better than writing something new, interesting, or insightful.
 

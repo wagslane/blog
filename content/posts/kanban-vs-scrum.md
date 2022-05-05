@@ -104,7 +104,7 @@ Kanban places emphasis on continuous integration and delivery. If you’re a fan
 
 ## No required roles
 
-Scrum has a product owner, a project manager (dubbed the scrum master), and a development team. Kanban has team members. There actually isn’t much to say here other than what I've already said about [hands-off project managers](https://qvault.io/misc/managers-code/) being a mistake.
+Scrum has a product owner, a project manager (dubbed the scrum master), and a development team. Kanban has team members. There actually isn’t much to say here other than what I've already said about [hands-off project managers](https://wagslane.dev/posts/managers-that-cant-code/) being a mistake.
 
 My main criticism of the way many Scrum teams are organized is that the person who is responsible for timelines often doesn’t have the product knowledge or technical chops to understand what's going on. They should know why we are working on a certain feature or bug next and ideally even have the technical knowledge to understand why all of this coding stuff is taking so long.
 

@@ -67,7 +67,7 @@ From the official guide:
 
 > The Scrum Master is a servant-leader for the Scrum Team. The Scrum Master helps those outside the Scrum Team understand which of their interactions with the Scrum Team are helpful and which aren’t.
 
-Depending on how the idea of the scrum master is implemented, it can be a bad idea or a worse one. Let's just talk about the worst possible scenario where the scrum master is a [non-technical, non-product](https://qvault.io/2020/07/14/your-manager-cant-code-they-shouldnt-be-your-manager/) people manager. A people person if you will.
+Depending on how the idea of the scrum master is implemented, it can be a bad idea or a worse one. Let's just talk about the worst possible scenario where the scrum master is a [non-technical, non-product](https://wagslane.dev/posts/managers-that-cant-code/) people manager. A people person if you will.
 
 In addition to all of their development work, the engineers are now interrupted frequently by the scrum master who is asking when the Java code for the React app will be done.
 
@@ -130,4 +130,4 @@ If an estimate turns out to be bad it must be allowed to be re-estimated at no d
 
 ## Final Note: Agile != Scrum
 
-I'm generally a fan of agile methodologies and the [Agile Manifesto](https://agilemanifesto.org/). I'm not a fan of Scrum. In a [later article (that I've now finished)](https://qvault.io/jobs/kanban-vs-scrum/), I plan to go over my thoughts on what to do in lieu of Scrum while still running an "agile" organization.
+I'm generally a fan of agile methodologies and the [Agile Manifesto](https://agilemanifesto.org/). I'm not a fan of Scrum. In a [later article (that I've now finished)](/posts/kanban-vs-scrum/), I plan to go over my thoughts on what to do in lieu of Scrum while still running an "agile" organization.

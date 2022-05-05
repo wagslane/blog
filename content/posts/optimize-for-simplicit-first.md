@@ -13,7 +13,7 @@ series: []
 audio: []
 ---
 
-We can't optimize for everything when developing software, so we need to start with _something_, and that something should be simple code and simple architecture. For example, to over-optimize for speed in JavaScript, we might write our [for-loops backwards](https://qvault.io/javascript/benchmarking-array-traversal-in-javascript/) to the detriment of readability.
+We can't optimize for everything when developing software, so we need to start with _something_, and that something should be simple code and simple architecture. For example, to over-optimize for speed in JavaScript, we might write our [for-loops backwards](https://blog.boot.dev/javascript/benchmarking-array-traversal-in-javascript/) to the detriment of readability.
 
 I believe we should optimize for simplicity _first_, and only make complex memory, speed, and abstraction changes as they become necessary.
 
@@ -39,7 +39,7 @@ Only add a new database, caching system, queuing server, or NPM module if there 
 
 There's nothing wrong with writing reusable functions, and most well-written functions will be reusable without adding any needless complexity. However, too often I've seen developers over-generalize a problem to the detriment of readability.
 
-If there's currently only one place in your application where a function is being called, don't worry about making that function the most generalized version of itself. For example, let's say I have some validation middleware in my [Go API](https://qvault.io/golang/boilerplating-a-new-go-program-microservice/):
+If there's currently only one place in your application where a function is being called, don't worry about making that function the most generalized version of itself. For example, let's say I have some validation middleware in my [Go API](https://blog.boot.dev/golang/golang-project-structure/):
 
 ```go
 type apiParams struct {
@@ -58,7 +58,7 @@ func validateParams(params apiParams) error {
 }
 ```
 
-A useful function to be sure, but my [craving for DRYness](https://qvault.io/clean-code/dry-code/) may tempt me to do the following:
+A useful function to be sure, but my [craving for DRYness](https://blog.boot.dev/clean-code/dry-code/) may tempt me to do the following:
 
 ```go
 type apiParams struct {
