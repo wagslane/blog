@@ -1,7 +1,7 @@
 ---
 title: SEO is One Giant Scam of a Job
 draft: false
-date: 2021-09-13
+date: 2022-05-09
 description: Why is it getting so much worse?
 author: Lane Wagner
 tags:
