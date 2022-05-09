@@ -12,7 +12,7 @@ series: []
 audio: []
 ---
 
-I've been writing online for about 4 years now, and I've learned a bit about "SEO" - this blog and my [side project's blog](https://blog.boot.dev) (my side project being [Boot.dev](https://boot.dev)) now have combined traffic of about 100k visits each month. I'm sure there are a lot of people out there who know a lot more about growing relevant orgainc traffic for businesses than I do, but I've become convinced of something that I'd like to run by you.
+I've been writing online for about 4 years now, and I've learned a bit about "SEO" - this blog and my [side project's blog](https://blog.boot.dev) (my side project being [Boot.dev](https://boot.dev)) now have combined traffic of about 100k visits each month. I'm sure there are a lot of people out there who know a lot more about growing relevant organic traffic for businesses than I do, but I've become convinced of something that I'd like to run by you.
 
 > "Those claiming to be an "SEO" probably provide little marketing value
 
@@ -21,14 +21,14 @@ First, let's acknowledge that everyone uses job titles to mean different things.
 * Recommending technical updates to improve search engine rankings
 * Doing keyword research
 * Distributing organic content to various media channels
-* Finding or creating backlinks
+* Finding or creating back-links
 
 More importantly, they typically *do not* consider their responsibilities to include:
 
 * Implementing technical updates to improve search engine rankings
 * Doing product/market research to find keywords that are likely to convert users
 * Writing blog content that will rank for target keywords
-* Guest posting and adding value to various online communities to gain backlinks organically
+* Guest posting and adding value to various online communities to gain back-links organically
 
 So when you hear me attacking the idea of an "SEO", I'm referring to people who are willing to take on the responsibilities in the first list, but shy away from those in the second. Let's talk about each one in a bit more detail.
 
@@ -78,12 +78,12 @@ So at the end of the day, it's simple, there are 3 main things to make sure you 
 
 1. Your page answers the search intent of the keyword you're targeting (provide value, don't stuff keywords)
 2. Your page does a great job delivering that value by being in-depth and having a great user experience
-3. Other pages in the internet link to you to as an additional signal that you are providing vaue
+3. Other pages in the internet link to you to as an additional signal that you are providing value
 
 If you lurk in [/r/seo](https://reddit.com/r/seo) like I do sometimes, you'll see the same question frequently asked, "how do I get backlinks to my content"? Most people in the industry refer to this kind of backlink building as "offsite SEO", and most people will tell you there are 2 main ways to do it.
 
 1. Cold emailing website owners and asking/paying for links.
-2. Guest posting on ther people's websites and sneaking in links back to your site.
+2. Guest posting on other people's websites and sneaking in links back to your site.
 
 I'm convinced that both of these approaches **suck**.
 
@@ -91,7 +91,7 @@ I've never actually cold emailed anyone to ask them to include a link to my webs
 
 As far as guest posting goes, I don't think it's a terrible approach, but I still think it's less efficient than what I've been doing.
 
-### What I do: Make no special effort to get backlinks
+### What I do: Make no special effort to get back-links
 
 I've had much greater success focusing *completely* on "onsite SEO" and content distribution. What I mean is, instead of wasting my time cold DMing and emailing people to link to a shitty article, I just do my best to write great articles. Then, if the article is good, and I'm doing a decent job of distributing it to communities that actually give a shit about the topic, then people in that community will link to it. If they don't like it, they won't, and I need to write something better.
 
