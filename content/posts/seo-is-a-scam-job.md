@@ -12,7 +12,7 @@ series: []
 audio: []
 ---
 
-I've been writing online for about 4 years now, and I've learned a bit about "SEO" - this blog and my [side project's blog](https://blog.boot.dev) (my side project being [Boot.dev](https://boot.dev)) now have a combined traffic of about 100k visits each month. I'm sure there are a lot of people out there who know a lot more about growing relevant orgainc traffic for businesses than I do, but I've become convinced of something that I'd like to run by you.
+I've been writing online for about 4 years now, and I've learned a bit about "SEO" - this blog and my [side project's blog](https://blog.boot.dev) (my side project being [Boot.dev](https://boot.dev)) now have combined traffic of about 100k visits each month. I'm sure there are a lot of people out there who know a lot more about growing relevant orgainc traffic for businesses than I do, but I've become convinced of something that I'd like to run by you.
 
 > "Those claiming to be an "SEO" probably provide little marketing value
 
@@ -32,9 +32,9 @@ More importantly, they typically *do not* consider their responsibilities to inc
 
 So when you hear me attacking the idea of an "SEO", I'm referring to people who are willing to take on the responsibilities in the first list, but shy away from those in the second. Let's talk about each one in a bit more detail.
 
-## Recommending technical updates vs implementing techincal updates
+## Recommending technical updates vs implementing techcical updates
 
-Let's get something straight, "techincal SEO" is *not* hard. Most web platforms take care of it for you, and if you're even a little familiar with how the web works, you'll can learn about the most important 80% of it in just a few minutes. Your site should:
+Let's get something straight, "techcical SEO" is *not* hard. Most web platforms take care of it for you, and if you're even a little familiar with how the web works, you can learn about the most important 80% of it in just a few minutes. Your site should:
 
 * Load quickly and efficiently
 * Work well on mobile and desktop
@@ -52,7 +52,7 @@ Oftentimes this means knowing how to code, but sometimes it just means being int
 
 This one is a bit trickier - it's probably best that product research is not the role of an SEO. Product research is a huge job, and a whole team can spend most of their time daily just talking to customers and devising plans for how to sell to them.
 
-In other words, your product marketing person (or team) probably need to be the one deciding which clusters of keywords are valuable to your business. Your "SEO person" just isn't going to have enough information to make those decisions. Trouble is, once those clusters are identified with accuracy, doing keyword research is one of the easiest jobs in the world. It's as simple as pulling up SEMrush, Ahrefs, or even just Google Keyword Planner and looking for related keywords with a good ratio between monthly traffic, ranking difficulty, and relevance to your business.
+In other words, your product marketing person (or team) probably needs to be the one deciding which clusters of keywords are valuable to your business. Your "SEO person" just isn't going to have enough information to make those decisions. Trouble is, once those clusters are identified with accuracy, doing keyword research is one of the easiest jobs in the world. It's as simple as pulling up SEMrush, Ahrefs, or even just Google Keyword Planner and looking for related keywords with a good ratio between monthly traffic, ranking difficulty, and relevance to your business.
 
 So what should you do? It's actually quite simple, you should take your internal product/marketing team and spend the 15 minutes required to teach them how to do keyword research. They will quickly be creating high-quality lists of keywords for your content writers to target that are more relevant that anything a dedicated "SEO" would come up with.
 
@@ -60,19 +60,19 @@ So what should you do? It's actually quite simple, you should take your internal
 
 If an "SEO" does the single most important task for increasing relevant traffic, that is, writing (or outlining) great articles that answer the questions of your customers, then I have nothing to complain about. The problem is that too many SEOs claim to "specialize" in "SEO", and they consider writing content out of the scope of their work. They want to put together some high-level plan, then dump a list of keywords on the marketing team. This is a *very* inefficient way to go about gaining organic traffic.
 
-In my opinion, the best SEO marketers will frequenty write and edit content themselves, if for no other reason than to figure out what is working and what isn't. They can then scale up the operation by creating a content schedule for a team of writers.
+In my opinion, the best SEO marketers will frequently write and edit content themselves, if for no other reason than to figure out what is working and what isn't. They can then scale up the operation by creating a content schedule for a team of writers.
 
 ## Distributing content
 
 Content distribution *as a task* requires no special skills - it can often be automated. By "as a task" I mean the actual work involved with going to various online communities, influencers, or publishers and informing them of your new content.
 
-On the other hand, putting together a plan and then exeucting that plan efficiently via a well-documented workflow does take some experience. Knowing which communities will be interested in your content, and putting together a repeatable plan to effectively reach those people isn't a walk in the park. It takes serious customer research. Again, we run into the problem of the average SEO not being an expert on the product personas being targeted.
+On the other hand, putting together a plan and then executing that plan efficiently via a well-documented workflow does take some experience. Knowing which communities will be interested in your content, and putting together a repeatable plan to effectively reach those people isn't a walk in the park. It takes serious customer research. Again, we run into the problem of the average SEO not being an expert on the product personas being targeted.
 
 A good "SEO" is just a good marketer at the end of the day, and in order to be successful, they need to have a deep understanding of the people they are trying to reach. If they do, they will likely do a great job distributing content.
 
 ## Growing a backlink profile
 
-In the *very* early days of search engines, what mattered most was keyword density. You would essentially just use the keyword you want to rank for *very* liberally in your web pages and would rank well. Ever since Google's groundbreaking [Pagerank](https://en.wikipedia.org/wiki/PageRank) algorithm was released, the number (and quality) of other websites who link to your webpage matters a lot more. These days, it's even more involved than that. Thankfully, Google uses page experience metrics as well.
+In the *very* early days of search engines, what mattered most was keyword density. You would essentially just use the keyword you want to rank for *very* liberally in your web pages and would rank well. Ever since Google's groundbreaking [Pagerank](https://en.wikipedia.org/wiki/PageRank) algorithm was released, the number (and quality) of other websites that link to your webpage matters a lot more. These days, it's even more involved than that. Thankfully, Google uses page experience metrics as well.
 
 So at the end of the day, it's simple, there are 3 main things to make sure you have covered if you want to rank.
 
