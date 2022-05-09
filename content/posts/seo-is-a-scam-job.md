@@ -32,9 +32,9 @@ More importantly, they typically *do not* consider their responsibilities to inc
 
 So when you hear me attacking the idea of an "SEO", I'm referring to people who are willing to take on the responsibilities in the first list, but shy away from those in the second. Let's talk about each one in a bit more detail.
 
-## Recommending technical updates vs implementing techcical updates
+## Recommending technical updates vs implementing technical updates
 
-Let's get something straight, "techcical SEO" is *not* hard. Most web platforms take care of it for you, and if you're even a little familiar with how the web works, you can learn about the most important 80% of it in just a few minutes. Your site should:
+Let's get something straight, "technical SEO" is *not* hard. Most web platforms take care of it for you, and if you're even a little familiar with how the web works, you can learn about the most important 80% of it in just a few minutes. Your site should:
 
 * Load quickly and efficiently
 * Work well on mobile and desktop
