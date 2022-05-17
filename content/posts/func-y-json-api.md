@@ -65,6 +65,10 @@ Let's go over how "Func-y JSON" works.
 * All "function inputs" are passed into the JSON request body
 * All "function outputs" are returned in the JSON response body
 
+### We always use POST requests
+
+We don't have HTTP methods on function calls, so we shouldn't have them here.
+
 ### All functions are versioned
 
 The first part of any request's path is a semantic version. For example, `/v1.0/...`
