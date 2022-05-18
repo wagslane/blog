@@ -71,7 +71,7 @@ We don't have HTTP methods on function calls, so we shouldn't have them here.
 
 ### We always use 200 response codes
 
-We don't have HTTP methods on function calls, so we shouldn't have them here. Specify errors in the body.
+We don't have response codes on function calls, so we shouldn't have them here. Specify errors in the body.
 
 ### All functions are versioned
 
