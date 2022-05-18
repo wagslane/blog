@@ -69,6 +69,10 @@ Let's go over how "Func-y JSON" works.
 
 We don't have HTTP methods on function calls, so we shouldn't have them here.
 
+### We always use 200 response codes
+
+We don't have HTTP methods on function calls, so we shouldn't have them here. Specify errors in the body.
+
 ### All functions are versioned
 
 The first part of any request's path is a semantic version. For example, `/v1.0/...`
