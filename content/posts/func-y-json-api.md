@@ -79,13 +79,15 @@ The first part of any request's path is a semantic version. For example, `/v1.0/
 
 ### Functions can have 0 to many namespaces. Namespace(s) follow the version number
 
-For example, `/v1.0/users/merchants/...`
+Unlike REST, these namespaces aren't *necessarily* resources, it's just an organizational tool.
+
+For example, `/v1.0/stats/...`
 
 ### The function name is the last part of the path
 
-For example, `/v1.0/users/merchants/create_account`
+For example, `/v1.0/stats/private/get_num_payments`
 
-### The entire path and function input/output keys are snake_case
+### The entire path, and all function input/output keys are snake_case
 
 Snake case seems like the best option because *I like it and I'm writing this blog post.* Also, URLs are not case sensitive, so it's not a dangerous choice.
 
@@ -93,15 +95,13 @@ Snake case seems like the best option because *I like it and I'm writing this bl
 
 Now that you understand the simple rules, let's look at some example docs.
 
-### Create user function: `/v1/users/create`
+### Get number of payments: `/v1.0/stats/private/get_num_payments`
 
 #### Inputs
 
 ```
 {
-    "name": String,
-    "email: String,
-    "age": Number
+    "filter_by_card_provider": *String
 }
 ```
 
@@ -110,7 +110,7 @@ Now that you understand the simple rules, let's look at some example docs.
 ```
 {
     "error": *String,
-    "id": *String
+    "count": *Number
 }
 ```
 
