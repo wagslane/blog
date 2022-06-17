@@ -43,7 +43,7 @@ Here are some stats:
 * 2 phones
 * 4 sim cards
 * 2 instances of the verizon website freezing up
-* 1 instance of being locke out of my Verizon account
+* 1 instance of being locked out of my Verizon account
 * 20+ sim card swaps (putting them in and out of different phones)
 * 1 phone reboot
 * 2 chat sessions on Verizon's website
