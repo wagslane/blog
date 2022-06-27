@@ -1,7 +1,7 @@
 ---
 title: "Learn to Say 'No'"
 author: Lane Wagner
-date: "2022-06-23"
+date: "2022-06-27"
 categories: 
   - "news"
 images:
