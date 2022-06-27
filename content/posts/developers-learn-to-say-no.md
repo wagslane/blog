@@ -10,7 +10,7 @@ images:
 
 ![say no](/img/say-no.webp)
 
-Saying "no" is hard skill to learn. It's even harder if you tend to be a more introverted person, but learn how to say "no" effectively can help your career as a developer in the long run. I certainly have struggled over the years with saying "no" as a programmer, after all, wouldn't a *good programmer*{{< superscript "tm" >}} be able to do *anything*?
+Saying "no" is hard skill to learn. It's even harder if you tend to be a more introverted person, but learn how to say "no" effectively can help your career. I certainly have struggled over the years with saying "no" as a programmer, after all, wouldn't a *good programmer*{{< superscript "tm" >}} be able to do *anything*?
 
 Let's look at some example scenarios where perhaps you should be saying "no" more often.
 
