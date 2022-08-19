@@ -12,7 +12,7 @@ series: []
 audio: []
 ---
 
-Agile development is fantastic and has made software development more fun and productive while simultaneously less punitive and slow. While I'm a fan of Agile, I'm not a huge fan of one of it's more common interpretations - a Scrum-based workflow. Let's discuss why I generally prefer a "Kanban" workflow to traditional Scrum. If you’ve read my [first article](posts/leave-scrum-to-rugby), you’ll know I’m not Scrum’s biggest fan.
+Agile development is fantastic and has made software development more fun and productive while simultaneously less punitive and slow. While I'm a fan of Agile, I'm not a huge fan of one of it's more common interpretations - a Scrum-based workflow. Let's discuss why I generally prefer a "Kanban" workflow to traditional Scrum. If you’ve read my [first article](/posts/leave-scrum-to-rugby), you’ll know I’m not Scrum’s biggest fan.
 
 ## What is Agile Development?
 
