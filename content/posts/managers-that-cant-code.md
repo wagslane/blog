@@ -13,13 +13,11 @@ series: []
 audio: []
 ---
 
-![people person](/img/people-person.jpg)
-
-Managers who can’t code are an outdated artifact of corporate America circa 2005. The best managers that I’ve had spend ~80% of their time coding, architecting, or doing technical work that requires engineering experience. If your manager thinks coding and other technical is “beneath” them then they need a dose of humble pie. Your organization would likely be better off without them.
+Managers who can’t code are an outdated artifact of corporate America circa 2005. The best managers that I’ve had spend ~80% of their time coding, architecting, or doing technical work that requires engineering experience. If your manager thinks coding and other technical is "beneath" them then they need a dose of humble pie. Your organization would likely be better off without them.
 
 ## But Managers Manage People!
 
-There is a long-running stigma associated with developers. The idea is that we are all geeks who can’t handle interpersonal relationships. Due to our code monkey nature, we need “people people” who can go to meetings for us and communicate our efforts effectively to the higher-ups.
+There is a long-running stigma associated with developers. The idea is that we are all geeks who can’t handle interpersonal relationships. Due to our code monkey nature, we need "people people" who can go to meetings for us and communicate our efforts effectively to the higher-ups.
 
 ![joke extrovert](/img/joke-extrovert.jpg)
 
@@ -45,7 +43,7 @@ Contrast the idea of a competent boss with the all-too-familiar experience of go
 
 A good manager has empathy for those who report to them. If the boss doesn’t code or hasn’t written code in a long time, they won’t understand the daily problems that their team is faced with. A good engineering leader will not only understand modern problems, but they make it their role to actively seek technical solutions in an ever-changing innovative landscape.
 
-## INB4: “So the CEO needs to be able to code?”
+## INB4: "So the CEO needs to be able to code?"
 
 No, but the CTO does.
 

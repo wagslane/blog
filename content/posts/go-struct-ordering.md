@@ -13,8 +13,6 @@ series: []
 audio: []
 ---
 
-![tetris](/img/tetris.jpg)
-
 We had application at one of my previous companies that typically ran with ~2GB in memory at any given time, but simply changing the order of some uint variables we managed to drop the memory usage to less than 1.4GB. Let’s dive into how inefficient field ordering in Go structs can have a huge impact on the memory footprint of a program.
 
 ## Our Situation

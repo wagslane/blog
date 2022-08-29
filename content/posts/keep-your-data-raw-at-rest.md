@@ -18,9 +18,9 @@ I want to talk about a simple rule of thumb that has served me well over the yea
 
 If you follow this rule, you can deliver your code faster, mainly because you will avoid lengthy and painful data migrations.
 
-The guiding principle behind this call to action is that *data at rest is more dangerous than data in motion*. By “data at rest” I typically mean data stored on disk, but it can also be any data that persists within your system through code updates and server restarts.
+The guiding principle behind this call to action is that *data at rest is more dangerous than data in motion*. By "data at rest" I typically mean data stored on disk, but it can also be any data that persists within your system through code updates and server restarts.
 
-For example, in the context of a web application, the rows in a PostgreSQL database would be “at rest”. Alternatively, when data is fetched from the database, transformed, and served we can say it’s “in motion” while in the application’s memory.
+For example, in the context of a web application, the rows in a PostgreSQL database would be "at rest". Alternatively, when data is fetched from the database, transformed, and served we can say it’s "in motion" while in the application’s memory.
 
 ## Why is data dangerous at rest?
 

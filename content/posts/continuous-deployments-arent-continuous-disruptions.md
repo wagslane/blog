@@ -34,7 +34,7 @@ No.
 
 * Deploy code ~46x more often to production
 * Have a 440x faster commit to deploy time
-* Have a 5x lower change failure rate (“failures” are “result[s] in degraded service or subsequently require remediation (e.g., leads to service impairment or outage, require a hotfix, a rollback, a fix-forward, or a patch.)
+* Have a 5x lower change failure rate ("failures" are "result[s] in degraded service or subsequently require remediation (e.g., leads to service impairment or outage, require a hotfix, a rollback, a fix-forward, or a patch.)
 * Have a 170x faster mean recovery time after failures
 
 While the data speaks for itself, it also makes sense from a qualitative perspective. Having systems in place that automate code delivery to be less time-consuming won’t inherently create more bugs. It’s the process before the CD that’s responsible for catching bugs. We can have a whole separate discussion about continuous integration and how that reduces the number of bugs that get through to production, but the act of automating deploys is orthogonal to that point.
@@ -49,7 +49,7 @@ They can be, but it depends.
 
 I’m a fan of the popular PC game DotA 2. As a user of their game, I’m really annoyed by how often they release small patch updates. It’s not uncommon for me to play three or four games back-to-back and have to download updates in between games. This is a highly disruptive experience because, in order to update, I have to close the game client, download the patch, and restart the game.
 
-The problem with what DotA 2 is doing isn’t that they (might) do CD, it’s that they have not made the patching experience seamless. For example, they could allow patches to be downloaded while the game is open like Blizzard does with their launcher. Alternatively, they could flag certain kinds of updates to be “lazy”. For example, inconsequential bug fixes wouldn’t require a game restart could just update the next time you close the game.
+The problem with what DotA 2 is doing isn’t that they (might) do CD, it’s that they have not made the patching experience seamless. For example, they could allow patches to be downloaded while the game is open like Blizzard does with their launcher. Alternatively, they could flag certain kinds of updates to be "lazy". For example, inconsequential bug fixes wouldn’t require a game restart could just update the next time you close the game.
 
 ## Example 2: Major UI updates
 

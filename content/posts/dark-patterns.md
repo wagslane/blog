@@ -1,5 +1,5 @@
 ---
-title: To Build Dark Patterns, I Refuse
+title: Businesses that Use Dark Patterns Deserve to Go Under
 draft: false
 date: 2022-06-17
 description: May I never inflict a dark pattern on the world

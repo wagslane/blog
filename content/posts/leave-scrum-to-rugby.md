@@ -13,8 +13,6 @@ series: []
 audio: []
 ---
 
-![rugby](/img/rugby.jpg)
-
 Scrum is a buzzword, the virtue signal of choice for middle-management in software organizations.
 
 If your goal as a manager is to implement a system by which you:

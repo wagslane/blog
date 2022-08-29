@@ -5,49 +5,65 @@ googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = []
 footnotereturnlinkcontents = "↩"
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = 'weekly'
+  filename = 'sitemap.xml'
 
 [taxonomies]
   tag = "tags"
 
 [permalinks]
-note = "/note/:slug/"
-post = "/post/:slug/"
+  note = "/note/:slug/"
+  post = "/post/:slug/"
 
 [[menu.main]]
-name = "Articles"
-url = ""
-weight = 1
+  name = "Articles"
+  url = ""
+  weight = 1
 
 [[menu.main]]
-name = "Tags"
-url = "tags/"
-weight = 2
+  name = "Tags"
+  url = "tags/"
+  weight = 2
 
 [[menu.main]]
-name = "About"
-url = "about/"
-weight = 3
+  name = "About"
+  url = "about/"
+  weight = 3
 
 [[menu.main]]
-name = "RSS"
-url = "index.xml"
+  name = "RSS"
+  url = "index.xml"
 
 [params]
-description = "I write about code, business, philosophy, or whatever else is interesting to me"
-footer = "&copy; [Lane Wagner](https://wagslane.dev) {Year} | [Github](https://github.com/wagslane) | [Twitter](https://twitter.com/wagslane)"
+  description = "I write about code, business, philosophy, or whatever else is interesting to me"
+  footer = "&copy; [Lane Wagner](https://wagslane.dev) {Year} | [Github](https://github.com/wagslane) | [Twitter](https://twitter.com/wagslane)"
 
 [markup.highlight]
-anchorLineNos = false
-codeFences = true
-guessSyntax = false
-hl_Lines = ""
-lineAnchors = ""
-lineNoStart = 1
-lineNos = false
-lineNumbersInTable = true
-noClasses = true
-style = "monokai"
-tabWidth = 4
+  anchorLineNos = false
+  codeFences = true
+  guessSyntax = false
+  hl_Lines = ""
+  lineAnchors = ""
+  lineNoStart = 1
+  lineNos = false
+  lineNumbersInTable = true
+  noClasses = true
+  style = "monokai"
+  tabWidth = 4
 
 [markup.goldmark.renderer]
-unsafe = true
+  unsafe = true
+
+[related]
+  includeNewer = false
+  threshold = 80
+  toLower = false
+[[related.indices]]
+  name = 'categories'
+  weight = 100
+[[related.indices]]
+  name = 'date'
+  weight = 10

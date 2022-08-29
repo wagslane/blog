@@ -50,9 +50,9 @@ In my experience, HackerNews and /r/programming are the two best communities, at
 
 There is an important point to be made that to an experienced developer, almost all entry-level content could seem low-effort and low-quality. Let’s do our best not to fall into that trap. There is nothing inherently wrong with an article about the `map`, `filter`, and `reduce` functions, but my suspicion is that this particular article is just a worse version of what you’d find by on the first page of Google.
 
-Sure enough, as I now click through to the body of “Map, Filter and Reduce explained”, I see code blocks without syntax highlighting enabled, sentences without a space between the last period and the first letter of the next sentence, and a slew of grammatical mistakes that could be solved with a simple writing plugin. It’s just not high-quality stuff. This article was clearly written very quickly, without much effort. Why is it at the top of my feed?
+Sure enough, as I now click through to the body of "Map, Filter and Reduce explained", I see code blocks without syntax highlighting enabled, sentences without a space between the last period and the first letter of the next sentence, and a slew of grammatical mistakes that could be solved with a simple writing plugin. It’s just not high-quality stuff. This article was clearly written very quickly, without much effort. Why is it at the top of my feed?
 
-It’s easy to get experienced developers to downvote, flag, or even outright ban low-effort content. All the articles I listed above, e.g. “Top IDE for Web Development” would never have seen the light of day on HackerNews. I’m convinced that the underlying problem is that a platform for beginners will have a smaller ratio of knowledgeable community members who have the experience required to identify poor or incorrect explanations.
+It’s easy to get experienced developers to downvote, flag, or even outright ban low-effort content. All the articles I listed above, e.g. "Top IDE for Web Development" would never have seen the light of day on HackerNews. I’m convinced that the underlying problem is that a platform for beginners will have a smaller ratio of knowledgeable community members who have the experience required to identify poor or incorrect explanations.
 
 ## What could Dev.to do better?
 
