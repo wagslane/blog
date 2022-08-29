@@ -27,7 +27,7 @@ To me, the most egregious example of this is when a company simply changes the j
 
 ## Agile has the same problem
 
-It’s worth mentioning that I think that the "Agile" movement falls into this same category. Generally speaking, I have more criticisms of Agile (and [particularly Scrum](/posts/leave-scrum-to-rugby)) than I do of DevOps, but the same goalpost-moving is happening. It can be career suicide, especially as a manger, to admit that you’re against Agile development. I mean, just look at the branding at work:
+It’s worth mentioning that I think that the "Agile" movement falls into this same category. Generally speaking, I have more criticisms of Agile (and [particularly Scrum](/posts/leave-scrum-to-rugby)) than I do of DevOps, but the same goalpost-moving is happening. It can be career suicide, especially as a manager, to admit that you’re against Agile development. I mean, just look at the branding at work:
 
 > "I don't buy into all the ideas behind agile, particularly some of the Scrum-specific ceremonies.
 
