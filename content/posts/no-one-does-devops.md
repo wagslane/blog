@@ -19,11 +19,13 @@ Sometimes an idea is so good, that you can’t argue with it. I’m not saying t
 If I were to generalize, I'd say most of the companies I’m picking on fall into one of two categories:
 
 * They believe in DevOps ideas, but they’re unwilling to invest in changing their ways.
-* They aren’t convinced that some of the scarier ideas (like deploying multiple times per day) will help after all.
+* They aren’t convinced that some of the scarier ideas (like [deploying multiple times per day](/posts/continuous-deployments-arent-continuous-disruptions) will help after all.
 
 It’s not like DevOps methodologies solved all of the industries' problems in one fell swoop. However, because the industry as a whole has bought into the manta, "DevOps good", I think companies feel that if they aren't going to "do DevOps", that they need to rebrand the term "DevOps" to mean "what we happen to already do".
 
 To me, the most egregious example of this is when a company simply changes the job titles of all its ops people. John use to be an "IT Operations" guy, abut now he's a "DevOps Engineer".
+
+*Luckily for me, I now run [Boot.dev](https://boot.dev) full-time so I get to put my own ideas into practice. I guess I'll find out if they are any good after all.*
 
 ## Agile has the same problem
 
