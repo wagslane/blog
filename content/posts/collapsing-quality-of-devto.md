@@ -6,7 +6,8 @@ description: Why is it getting so much worse?
 author: Lane Wagner
 tags:
  - writing
-images: []
+images:
+ - /img/800/photo-1571686683059-4b1bf2086a13.avif.webp
 videos: []
 series: []
 audio: []

@@ -7,7 +7,7 @@ author: Lane Wagner
 tags:
  - business
 images:
-- /img/photo-1567095751004-aa51a2690368.avif
+- /img/800/photo-1567095751004-aa51a2690368.avif.webp
 videos: []
 series: []
 audio: []

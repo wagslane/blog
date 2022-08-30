@@ -7,7 +7,7 @@ author: Lane Wagner
 tags:
  - management
 images:
-- /img/rugby.jpg
+- /img/800/rugby.jpg.webp
 videos: []
 series: []
 audio: []
@@ -51,11 +51,11 @@ I'm not against management being informed... but at what cost?
 
 Sprints require achievable short-term goals with a start and end date. To explore the potential problems, let's pretend that I'm part of a team that does two-week sprints (because the duration must be consistent) and I'm assigned to build a microservice with an API that isn't useful to end-users until the whole thing is complete. Let's also say that I estimate the whole task will take ~two months if I can work consistently.
 
-![scrum table](/img/scrum-table.png)
+![scrum table](/img/800/scrum-table.png.webp)
 
 I need to break the API into pieces that can be completed in 2-week increments. We don't plan super far ahead in Scrum (which is good, things change rapidly) so I just need to figure out what I can get done in my next sprint. I might be able to get some of the endpoints done quickly, but I have bugs to fix and I certainly don't want to miss my goals, so I play it safe and estimate that in this first sprint I can complete two of the endpoints.
 
-![scrum table 2](/img/scrum-table2.png)
+![scrum table 2](/img/800/scrum-table2.png.webp)
 
 This creates artificial stopping points. Rather than just continuing with the API after the first two endpoints, I'm incentivized to stop. This doesn't mean a good and honest developer actually would stop, but I'm incentivized by the system to stop. An API that could have been completed in 2 months could now take almost 4 months. Imposter syndrome starts to set in, but at least management will have pretty burndown charts.
 
@@ -77,7 +77,7 @@ If you still feel the need for a scrum master, just let the lead developer for t
 
 ## Problem #4 - Estimates
 
-![estimating time](/img/estimating-time.png)
+![estimating time](/img/800/estimating-time.png.webp)
 
 Within Scrum, estimates have a primary purpose - to figure out how much work the team can accomplish in a given sprint. If I were to grant that Sprints were a good idea (which I don't) then the description of estimates in the official Scrum guide wouldn't be a problem.
 
@@ -116,7 +116,7 @@ It seems we've solved the problem! Until another good-intentioned scrum master p
 
 Good point, estimating is hard and we don't want anyone to feel like they're a bad engineer just because they aren't the perfect estimator. That said, maybe instead of starting a game of "Whose Line Is It Anyway?"...
 
-![points don't matter](/img/points-dont-matter.jpeg)
+![points don't matter](/img/800/points-dont-matter.jpeg.webp)
 
 ...we could set the reasonable expectation that estimates are just that, estimates.
 

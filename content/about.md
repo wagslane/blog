@@ -3,7 +3,7 @@ title: About
 author: Lane Wagner
 ---
 
-![img](/img/profile-200x200.jpg)
+![img](/img/800/profile-200x200.jpg.webp)
 
 I've been whining about code sins since 2011 and committing code sins for the same.
 

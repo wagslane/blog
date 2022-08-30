@@ -7,7 +7,7 @@ author: Lane Wagner
 tags:
  - philosophy
 images:
- - /img/case-bom.png
+ - /img/800/case-bom.png.webp
 videos: []
 series: []
 audio: []

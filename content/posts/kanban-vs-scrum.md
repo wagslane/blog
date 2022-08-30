@@ -6,7 +6,8 @@ description: Let's discuss why I generally prefer Kanban to Scrum
 author: Lane Wagner
 tags:
  - management
-images: []
+images:
+ - /img/800/kanban.avif.webp
 videos: []
 series: []
 audio: []

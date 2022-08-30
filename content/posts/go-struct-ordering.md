@@ -7,7 +7,7 @@ author: Lane Wagner
 tags:
  - golang
 images:
- - /img/tetris.jpg
+ - /img/800/tetris.jpg.webp
 videos: []
 series: []
 audio: []
@@ -117,10 +117,10 @@ Modern CPU hardware performs reads and writes to memory most efficiently when th
 
 With our first struct, the Reach field is between the NumPosts and NumLikes fields, which means that the compiler will add some padding to keep things nice and even.
 
-![mem1](/img/memory-usage-go.png)
+![mem1](/img/800/memory-usage-go.png.webp)
 
 In our updated struct however, we have grouped the smaller fields, and since they add up to the same amount of memory as the larger Reach field we can save some space!
 
-![mem1](/img/memory-usage-go-2.png)
+![mem1](/img/800/memory-usage-go-2.png.webp)
 
 This was is a weird quirk, but making the small optimizations has made a huge impact on some of our services.

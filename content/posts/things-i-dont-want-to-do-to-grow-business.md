@@ -6,7 +6,8 @@ description: Life is to short to work on things you hate
 author: Lane Wagner
 tags:
  - business
-images: []
+images:
+ - /img/800/grow.avif.webp
 videos: []
 series: []
 audio: []

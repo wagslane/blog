@@ -6,7 +6,8 @@ description: Your religion isn't the only sane one
 author: Lane Wagner
 tags:
  - philosophy
-images: []
+images:
+ - /img/800/templemormon.avif.webp
 videos: []
 series: []
 audio: []

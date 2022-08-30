@@ -7,7 +7,7 @@ author: Lane Wagner
 tags:
  - clean-code
 images:
- - /img/people-person.jpg
+ - /img/800/people-person.jpg.webp
 videos: []
 series: []
 audio: []

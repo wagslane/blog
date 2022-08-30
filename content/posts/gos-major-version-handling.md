@@ -6,7 +6,8 @@ description: I'm normally a fan of the rigidity within the Go toolchain
 author: Lane Wagner
 tags:
  - golang
-images: []
+images:
+ - /img/800/handling.avif.webp
 videos: []
 series: []
 audio: []

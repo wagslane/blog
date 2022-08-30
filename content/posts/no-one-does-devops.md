@@ -6,7 +6,7 @@ author: Lane Wagner
 tags:
  - devops
 images:
- - /img/gears.jpeg
+ - /img/800/gears.jpeg.webp
 videos: []
 series: []
 audio: []

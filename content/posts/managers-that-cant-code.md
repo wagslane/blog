@@ -7,7 +7,7 @@ author: Lane Wagner
 tags:
  - management
 images:
- - /img/people-person.jpg
+ - /img/800/people-person.jpg.webp
 videos: []
 series: []
 audio: []
@@ -19,7 +19,7 @@ Managers who can’t code are an outdated artifact of corporate America circa 20
 
 There is a long-running stigma associated with developers. The idea is that we are all geeks who can’t handle interpersonal relationships. Due to our code monkey nature, we need "people people" who can go to meetings for us and communicate our efforts effectively to the higher-ups.
 
-![joke extrovert](/img/joke-extrovert.jpg)
+![joke extrovert](/img/800/joke-extrovert.jpg.webp)
 
 While the above is still funny, it’s outdated. As the developer community has grown exponentially in the last 20 years, so too has the personality diversity amongst its members. In other words, it is not hard to find developers with the soft-skills necessary for management positions.
 
@@ -37,7 +37,7 @@ In this [study from Harvard](https://hbr.org/2016/12/if-your-boss-could-do-your-
 
 Contrast the idea of a competent boss with the all-too-familiar experience of going to a non-technical middle-management type with an engineering problem, only to be stuck in a teaching session because the boss has never heard of a pub-sub system.
 
-![dilbert](/img/dilbert-joke.webp)
+![dilbert](/img/800/dilbert-joke.webp.webp)
 
 ## Managers Need Empathy
 

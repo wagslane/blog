@@ -5,7 +5,7 @@ date: "2022-06-27"
 categories: 
   - "news"
 images:
-  - /img/say-no.webp
+  - /img/800/say-no.webp.webp
 ---
 
 Saying "no" is hard skill to learn. It's even harder if you tend to be a more introverted person, but learn how to say "no" effectively can help your career. I certainly have struggled over the years with saying "no" as a programmer, after all, wouldn't a *good programmer*{{< superscript "tm" >}} be able to do *anything*?

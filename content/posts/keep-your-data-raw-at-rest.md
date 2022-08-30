@@ -6,7 +6,8 @@ description: Data at rest is more dangerous than data in motion.
 author: Lane Wagner
 tags:
  - clean-code
-images: []
+images:
+ - /img/800/rest.avif.webp
 videos: []
 series: []
 audio: []

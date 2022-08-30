@@ -6,7 +6,8 @@ description: REST, GraphQL and gRPC aren't what I want
 author: Lane Wagner
 tags:
  - clean-code
-images: []
+images:
+ - /img/800/funky.avif.webp
 videos: []
 series: []
 audio: []
