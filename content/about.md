@@ -1,5 +1,5 @@
 ---
-title: About
+title: About Lane
 author: Lane Wagner
 ---
 
