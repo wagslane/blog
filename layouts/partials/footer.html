@@ -1,10 +1,12 @@
 <footer>
-  {{ partial "foot_custom.html" . }}
-  {{ with .Site.Params.footer }}
   <hr />
-  {{ replace . "{Year}" now.Year | markdownify}}
-  {{ end }}
+  <div>
+    <a>&copy; Lane Wagner</a>
+    <a class="link" href="https://github.com/wagslane">Github</a>
+    <a class="link" href="https://twitter.com/wagslane">Twitter</a>
+  </div>
 </footer>
+</div>
 </div>
 </body>
 

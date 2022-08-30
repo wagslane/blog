@@ -1,0 +1,153 @@
+:root {
+  --blue-50: #eff6ff;
+  --blue-100: #dbeafe;
+  --blue-200: #bfdbfe;
+  --blue-300: #93c5fd;
+  --blue-400: #60a5fa;
+  --blue-500: #3b82f6;
+  --blue-600: #2563eb;
+  --blue-700: #1d4ed8;
+  --blue-800: #1e40af;
+  --blue-900: #1e3a8a;
+
+  --gray-50: #f9fafb;
+  --gray-100: #f3f4f6;
+  --gray-200: #e5e7eb;
+  --gray-300: #d1d5db;
+  --gray-400: #9ca3af;
+  --gray-500: #6b7280;
+  --gray-600: #4b5563;
+  --gray-700: #374151;
+  --gray-800: #1f2937;
+  --gray-900: #111827;
+}
+
+body {
+  font-family: Helvetica Neue, Helvetica, sans-serif;
+}
+
+code {
+  font-family: "Lucida Console", Monaco, monospace;
+  font-size: 85%;
+}
+
+hr {
+  border: 1px solid var(--gray-300);
+  margin: 1em 0 1em 0;
+}
+
+main h2 {
+  font-weight: 600;
+  font-size: 1.75rem;
+  margin-bottom: 1rem;
+}
+
+main h3 {
+  font-weight: 600;
+  font-size: 1.25rem;
+  margin-bottom: 1rem;
+}
+
+main h4 {
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+main p {
+  font-size: 1.1rem;
+  line-height: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+main ul {
+  list-style-type: disc;
+  margin-left: 1rem;
+  margin-bottom: 1rem;
+}
+
+main ol {
+  list-style-type: decimal;
+  margin-left: 1rem;
+  margin-bottom: 1rem;
+}
+
+main a {
+  color: var(--blue-700);
+  text-decoration: underline;
+}
+
+main a:hover {
+  color: var(--blue-500);
+}
+
+main code {
+  font-family: "Lucida Console", Monaco, monospace;
+}
+
+main pre {
+  background: var(--gray-800);
+  color: var(--gray-200);
+  padding: 1em;
+  overflow-x: auto;
+  border-radius: 4px;
+  margin-bottom: 1rem;
+}
+
+main p code {
+  padding: 2px 4px 2px 4px;
+  background: var(--gray-700);
+  color: var(--gray-100);
+  border-radius: 4px;
+}
+
+main p {
+  margin-bottom: 1rem;
+}
+
+main img {
+  border-radius: 5px;
+}
+
+main img,
+iframe,
+video {
+  max-width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+main blockquote {
+  background: var(--gray-200);
+  border-left: 5px solid var(--gray-800);
+  padding: 3px 1em 3px;
+  border-radius: 4px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+main blockquote p {
+  margin: 0;
+}
+
+main table {
+  margin: auto;
+  border: 1px solid var(--blue-500);
+  margin-bottom: 1rem;
+}
+
+main table thead th {
+  padding: 1rem;
+  border-bottom: 1px solid var(--blue-500);
+}
+
+main th,
+td {
+  padding: 5px;
+}
+
+main thead,
+tfoot,
+tr:nth-child(even) {
+  background: var(--gray-800);
+}

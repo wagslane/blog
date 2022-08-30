@@ -7,8 +7,6 @@
   <title>
     {{if ne .Title .Site.Title}}{{ .Title }} | {{ end }}{{ .Site.Title }}
   </title>
-  <link rel="stylesheet" href="/css/style.css" />
-  <link rel="stylesheet" href="/css/fonts.css" />
 
   <link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png">
@@ -18,23 +16,19 @@
   <meta name="msapplication-TileColor" content="#da532c">
   <meta name="theme-color" content="#ffffff">
 
+  {{ $tailcss := resources.Get "css/tail-out.css" | minify }}
+  <link href="{{ $tailcss.RelPermalink }}" rel="stylesheet">
+
+  {{ $stylescss := resources.Get "css/style.css" | minify }}
+  <link href="{{ $stylescss.RelPermalink }}" rel="stylesheet">
+
   {{ template "_internal/opengraph.html" . }}
   {{ template "_internal/twitter_cards.html" . }}
-  {{ partial "head_custom.html" . }}
+  {{ template "_internal/schema.html" . }}
 </head>
 
-<body>
-  <div class="cta">
-    <a href="https://boot.dev">
-      Learn backend development by writing modern code on Boot.dev
-    </a>
-  </div>
-  <div class="contained">
-    <nav>
-      <ul class="menu">
-        {{ range .Site.Menus.main }}
-        <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
-        {{ end }}
-      </ul>
-      <hr />
-    </nav>
+<body class="bg-gray-100 text-gray-800">
+  {{ partial "top_nav.html" . }}
+  {{ partial "sticky_cta.html" . }}
+  <div class="w-full flex justify-center">
+    <div class="max-w-3xl p-4">

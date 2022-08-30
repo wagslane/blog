@@ -13,8 +13,6 @@ series: []
 audio: []
 ---
 
-![dark](/img/photo-1567095751004-aa51a2690368.avif)
-
 ## What is a dark pattern?
 
 Last night I switched away from Verizon as my cell phone provider. The process of wrestling my phone number out of their grubby clutches and into control of my new carrier had me raving like a madman by the end of the night. I had a similar experience when trying to quit from my local Vasa gym. While I'm sure you're familiar with a an unnecessarily difficult cancellation process, this might be the first time you've heard it referred to as a "dark pattern".

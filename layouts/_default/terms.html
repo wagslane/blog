@@ -1,11 +1,13 @@
 {{ partial "header.html" . }}
 
-<h1>{{ .Title }}</h1>
+<h1 class="text-4xl">{{ .Title | markdownify }}</h1>
 
-<ul class="terms">
+<hr>
+
+<ul class="list-disc">
   {{ range .Data.Terms }}
-  <li>
-    <a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a> ({{ .Count }})
+  <li class="ml-4">
+    <a class="link" href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a> ({{ .Count }})
   </li>
   {{ end }}
 </ul>

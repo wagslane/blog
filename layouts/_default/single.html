@@ -4,24 +4,28 @@
     <img class="rounded mb-4" width="736" height="414" src="{{ index (.Params.images) 0 }}" />
     {{ end }}
 
-    <h1><span class="title">{{ .Title | markdownify }}</span></h1>
+    <div class="mb-4">
+        <h1 class="text-4xl mb-4">
+            {{ .Title | markdownify }}
+        </h1>
 
-    {{ $date := .Params.date.Format "Jan 2, 2006" }}
-    {{ if .Params.author }}
-    <div class="dateline">
-        By {{ .Params.author }}
-        {{ if (gt .Params.date 0) }}
-        on {{ $date }}
+        {{ $date := .Params.date.Format "Jan 2, 2006" }}
+        {{ if .Params.author }}
+        <div class="text-sm">
+            By {{ .Params.author }}
+            {{ if (gt .Params.date 0) }}
+            on {{ $date }}
+            {{ end }}
+        </div>
+        {{ end }}
+
+        {{ $lastmod := .Params.lastmod.Format "Jan 2, 2006" }}
+        {{ if and (ne $lastmod $date) (gt .Params.lastmod .Params.date) }}
+        <div class="text-gray-600 text-sm">
+            Last updated on {{ $lastmod }}
+        </div>
         {{ end }}
     </div>
-    {{ end }}
-
-    {{ $lastmod := .Params.lastmod.Format "Jan 2, 2006" }}
-    {{ if and (ne $lastmod $date) (gt .Params.lastmod .Params.date) }}
-    <div class="lastmodline">
-        Last updated on {{ $lastmod }}
-    </div>
-    {{ end }}
 </div>
 
 <main>
