@@ -23,7 +23,7 @@ If I were to generalize, I'd say most of the companies I’m picking on fall int
 
 It’s not like DevOps methodologies solved all of the industries' problems in one fell swoop. However, because the industry as a whole has bought into the manta, "DevOps good", I think companies feel that if they aren't going to "do DevOps", that they need to rebrand the term "DevOps" to mean "what we happen to already do".
 
-To me, the most egregious example of this is when a company simply changes the job titles of all its ops people. John use to be an "IT Operations" guy, abut now he's a "DevOps Engineer".
+To me, the most egregious example of this is when a company simply changes the job titles of all its ops people. John use to be an "IT Operations" guy, but now he's a "DevOps Engineer".
 
 *Luckily for me, I now run [Boot.dev](https://boot.dev) full-time so I get to put my own ideas into practice. I guess I'll find out if they are any good after all.*
 
