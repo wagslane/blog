@@ -123,7 +123,7 @@ func CopyFile(src, dst string) error {
 	defer r.Close()
 
 	w, err := os.Create(dst)
-	guard fmt.GuardF("could not create file to copy: %w", err)
+	guard fmt.Guardf("could not create file to copy: %w", err)
 	defer w.Close()
 
 	guard io.Copy(w, r)
@@ -134,6 +134,6 @@ func CopyFile(src, dst string) error {
 ### Notes
 
 1. In the case that the `CopyFile` returns more than just a single error, `guard` would return zero values for everything but the non-nil error.
-2. I made up the `fmt.GuardF` function. We would need *something* like this. It's a version of `fmt.Errorf` that returns `nil` if the error that's passed in is `nil`.
+2. I made up the `fmt.Guardf` function. We would need *something* like this. It's a version of `fmt.Errorf` that returns `nil` if the error that's passed in is `nil`.
 
 I think *something like this* could solve the only real problem with Go errors: How do we save those 3 lines of code while still encouraging good error wrapping?
