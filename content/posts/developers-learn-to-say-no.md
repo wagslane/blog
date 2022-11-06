@@ -18,17 +18,17 @@ The single biggest struggle when product and engineering teams are collaborating
 
 In theory, it goes like this:
 
-1. Product team knows how much business value feature X will bring to the company: (A).
-2. Engineering team knows how long feature X will take to release: (B).
+1. The Product team knows how much business value feature X will bring to the company: (A).
+2. The Engineering team knows how long feature X will take to release: (B).
 3. The two parties talk it over, perform an `A/B` calculation, and the product team decides whether or not building the feature is a worthwhile investment of resources.
 
-There are several things that can go wrong here, but the least obvious, and perhaps most dangerous, is that **engineer's egos are attached to the estimates**. As a result, estimates are often too short, and business decisions are made using less-than-ideal data. This can be exacerbated by the fact that product manager's egos are attached to their new feature ideas, meaning that "A" in the A/B calculation is larger than it should be while "B" is smaller than it should be. The end result is features being built that should have been identified earlier as bad investments.
+There are several things that can go wrong here, but the least obvious, and perhaps most dangerous, is that **engineer's egos are attached to the estimates**. As a result, estimates are often too short, and business decisions are made using less-than-ideal data. This can be exacerbated by the fact that product managers' egos are attached to their new feature ideas, meaning that "A" in the A/B calculation is larger than it should be while "B" is smaller than it should be. The end result is features being built that should have been identified earlier as bad investments.
 
-When an eager product manager is telling you that a cool new feature will double the companies revenues, it can be hard to have the guts to tell them the truth about how long you think it will take to build. You may be tempted to tell them it can be done faster than you think. You'll just work extra hard, maybe even on weekends, in order to deliver on time, right?
+When an eager product manager is telling you that a cool new feature will double the company's revenues, it can be hard to have the guts to tell them the truth about how long you think it will take to build. You may be tempted to tell them it can be done faster than you think. You'll just work extra hard, maybe even on weekends, in order to deliver on time, right?
 
 **Please don't shorten your estimates due to business pressures.**
 
-It's better for everyone if your estimates are as close to the mark as they can be, because that will result in the best business decisions being made. Hell, if your company culture is a toxic one, you might even need to *pad* your estimates. While exaggerating estimates isn't the best way to run a product organization, if you have a management team that doesn't know how to manage well, it can be necessary to protect yourself and your team.
+It's better for everyone if your estimates are as close to the mark as they can be because that will result in the best business decisions being made. Hell, if your company culture is a toxic one, you might even need to *pad* your estimates. While exaggerating estimates isn't the best way to run a product organization, if you have a management team that doesn't know how to manage well, it can be necessary to protect yourself and your team.
 
 While trying to be helpful it can be very tempting to over-promise, but the best developers give the most realistic timelines they can so they can be confident about their ability to deliver.
 
@@ -40,13 +40,13 @@ Don't be afraid to push back when you feel you don't have enough information to 
 
 ## Say "no" to functionality that belongs in another team's codebase
 
-At larger companies, it's often the case the different teams manage different services and pieces of the companies IT infrastructure. When a new feature needs to be added, the product team may not know which engineering team(s) should be working on it. As the engineers get together to discuss, again, it can be tempting to volunteer for the feature, maybe your team even has extra bandwidth and the other teams are swamped! It's okay to step in and help, but only if doing so also happens to result in a sane technical architecture. Let's look at an example.
+At larger companies, it's often the case the different teams manage different services and pieces of the company's IT infrastructure. When a new feature needs to be added, the product team may not know which engineering team(s) should be working on it. As the engineers get together to discuss, again, it can be tempting to volunteer for the feature, maybe your team even has extra bandwidth and the other teams are swamped! It's okay to step in and help, but only if doing so also happens to result in a sane technical architecture. Let's look at an example.
 
 * Team A is in charge of the "outgoing emails" service
 * Your team, team B, is in charge of the "users" service
 * Team A is super busy, and product needs new email sequence features
 
-If team "A" weren't so busy, they would be building the new email sequences, but they *are* busy, so you decide to volunteer your team - after all, the "users" service is stable and your team has the bandwidth for the work. Additionally, you decide that your team doesn't have the domain expertise to make changes to the "outgoing emails" service, so you'll just add some new dependencies and get the "users" service sending those email sequences.
+If team "A" weren't so busy, they would be building the new email sequences, but they *are* busy, so you decide to volunteer your team - after all, the "users" service is stable and your team has the bandwidth for the work. Additionally, you decide that your team doesn't have the domain expertise to make changes to the "outgoing emails" service, so you'll just add some new dependencies and get the "users" service to send those email sequences.
 
 The problem with this reasoning is that it creates a sub-par technical architecture. You made a bad technical decision in order to speed things up in the short term. Almost certainly, sometime in the future, someone is going to have to move all that logic back into the part of the system that it belongs in for one reason or another.
 
@@ -56,7 +56,7 @@ I think it is *really good* code architecture practice for developers to maintai
 
 After working on a codebase that is shared by many applications, you will begin to have a better understanding of why it's important to keep application-specific concerns out of shared libraries.
 
-Let's pretend you're building a simple password validation library. It exposes a function called `getPasswordComplexity(String) -> Int`. It takes a `string` as input, and returns a "complexity score" from `0-100`. Some of your users might ask you to also return specific error messages when the "complexity score" is below a certain threshold. Something like:
+Let's pretend you're building a simple password validation library. It exposes a function called `getPasswordComplexity(String) -> Int`. It takes a `string` as input and returns a "complexity score" from `0-100`. Some of your users might ask you to also return specific error messages when the "complexity score" is below a certain threshold. Something like:
 
 > Please enter a longer password
 
@@ -66,7 +66,7 @@ The answer to these kinds of requests should be a simple "no, that's a concern o
 
 ## Know when to say "yes"
 
-Finally, it's worth mentioning that it's important to stay cognizant of the times it's important to say "yes". Saying no *too much* can turn you into an unhelpful asshole. No one wants that. I have only a couple pieces of advice here:
+Finally, it's worth mentioning that it's important to stay cognizant of the times it's important to say "yes". Saying no *too much* can turn you into an unhelpful asshole. No one wants that. I have only a couple of pieces of advice here:
 
 * Say no kindly, don't condescend
 * Always explain why you are saying no

@@ -13,15 +13,15 @@ series: []
 audio: []
 ---
 
-Managers who can’t code are an outdated artifact of corporate America circa 2005. The best managers that I’ve had spend ~80% of their time coding, architecting, or doing technical work that requires engineering experience. If your manager thinks coding and other technical is "beneath" them then they need a dose of humble pie. Your organization would likely be better off without them.
+Managers who can’t code are an outdated artifact of corporate America circa 2005. The best managers that I’ve had spend ~80% of their time coding, architecting, or doing technical work that requires engineering experience. If your manager thinks coding and other technical work is "beneath" them then they need a dose of humble pie. Your organization would likely be better off without them.
 
 ## But Managers Manage People!
 
-There is a long-running stigma associated with developers. The idea is that we are all geeks who can’t handle interpersonal relationships. Due to our code monkey nature, we need "people people" who can go to meetings for us and communicate our efforts effectively to the higher-ups.
+There is a long-running stigma associated with developers. The idea is that we are all geeks who can’t handle interpersonal relationships. Due to our code-monkey nature, we need "people people" who can go to meetings for us and communicate our efforts effectively to the higher-ups.
 
 ![joke extrovert](/img/800/joke-extrovert.jpg.webp)
 
-While the above is still funny, it’s outdated. As the developer community has grown exponentially in the last 20 years, so too has the personality diversity amongst its members. In other words, it is not hard to find developers with the soft-skills necessary for management positions.
+While the above is still funny, it’s outdated. As the developer community has grown exponentially in the last 20 years, so too has the personality diversity among its members. In other words, it is not hard to find developers with the soft skills necessary for management positions.
 
 ## Managers Should Help
 
@@ -37,7 +37,7 @@ In this [study from Harvard](https://hbr.org/2016/12/if-your-boss-could-do-your-
 
 Contrast the idea of a competent boss with the all-too-familiar experience of going to a non-technical middle-management type with an engineering problem, only to be stuck in a teaching session because the boss has never heard of a pub-sub system.
 
-![dilbert](/img/800/dilbert-joke.webp.webp)
+![Dilbert](/img/800/dilbert-joke.webp.webp)
 
 ## Managers Need Empathy
 
@@ -47,7 +47,7 @@ A good manager has empathy for those who report to them. If the boss doesn’t c
 
 No, but the CTO does.
 
-I am sympathetic to the idea that the CTO will have plenty of business and product-related work to focus on, but they can’t let their technical chops slip. In order to run the engineering arm of an innovative company, the person at the top should have a firm mental grasp on the implementation difficulties. If this just means reviewing architectural diagrams and reviewing pull-requests so be it, but nothing beats hands-on engineering work to stay sharp.
+I am sympathetic to the idea that the CTO will have plenty of business and product-related work to focus on, but they can’t let their technical chops slip. To run the engineering arm of an innovative company, the person at the top should have a firm mental grasp on the implementation difficulties. If this just means reviewing architectural diagrams and reviewing pull requests so be it, but nothing beats hands-on engineering work to stay sharp.
 
 ## Feedback Please
 

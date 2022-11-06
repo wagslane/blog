@@ -13,7 +13,7 @@ series: []
 audio: []
 ---
 
-Agile development is fantastic and has made software development more fun and productive while simultaneously less punitive and slow. While I'm a fan of Agile, I'm not a huge fan of one of it's more common interpretations - a Scrum-based workflow. Let's discuss why I generally prefer a "Kanban" workflow to traditional Scrum. If you’ve read my [first article](/posts/leave-scrum-to-rugby), you’ll know I’m not Scrum’s biggest fan.
+Agile development is fantastic and has made software development more fun and productive while simultaneously less punitive and slow. While I'm a fan of Agile, I'm not a huge fan of one of its more common interpretations - a Scrum-based workflow. Let's discuss why I generally prefer a "Kanban" workflow to traditional Scrum. If you’ve read my [first article](/posts/leave-scrum-to-rugby), you’ll know I’m not Scrum’s biggest fan.
 
 ## What is Agile Development?
 
@@ -26,9 +26,9 @@ From the [Agile Manifesto](https://agilemanifesto.org/):
 
 The same authors of the manifesto also have provided the following [12 principles](https://agilemanifesto.org/principles.html) that back it up:
 
-1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
+1. Our highest priority is to satisfy the customer through the early and continuous delivery of valuable software.
 2. Welcome changing requirements, even late in development. Agile processes harness change for the customer’s competitive advantage.
-3. Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
+3. Deliver working software frequently, from a couple of weeks to a couple of months, with a preference for a shorter timescale.
 4. Business people and developers must work together daily throughout the project.
 5. Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
 6. The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
@@ -98,7 +98,7 @@ In Kanban, we create a task, and we’re always getting customer feedback. The i
 
 Kanban places emphasis on continuous integration and delivery. If you’re a fan of DevOps as much as I am, this point is critical. There are many arguments for delivering software as quickly as possible, but here are the key points:
 
-* **Increased ability to compete in the market.** If a competitor can only release features and bug fixes every two weeks, their products will not only improve at a slower pace but will appear less stable. With good CI/CD practices, many bugs can be fixed the same-day.
+* **Increased ability to compete in the market.** If a competitor can only release features and bug fixes every two weeks, their products will not only improve at a slower pace but will appear less stable. With good CI/CD practices, many bugs can be fixed on the same day.
 * **Code is deployed sooner and starts making money faster.** We write code to improve products and make money. The longer code is complete but waits sitting in a queue the more money we’re wasting.
 * **Engineers are happier and more productive.** Engineers like to see the code they’ve worked on be deployed and get used by people. With long release cycles, it takes longer to get that dopamine hit. Easy and frequent deployments to production make happy engineers, and happy engineers stick around.
 * **Higher code quality.** If we think of each deployment as the code going through the car wash then it makes sense that more frequent and easy deploys will keep the codebase cleaner. I have a couple of small refactors I want to get in, is it worth it if I have to wait two weeks to get them merged in? By then I will likely have a merge conflict or two.
@@ -113,7 +113,7 @@ My main criticism of the way many Scrum teams are organized is that the person w
 
 When I work, I don’t take estimates as seriously as most Scrum teams do. I’m not sure if this is actually a Kanban vs Scrum idea – but I'll give you my personal 2 cents.
 
-Estimates are a necessary component of running a business. We need to have an idea of how soon we can have a feature in customer's hands. If we’ve concluded a feature can add $150,000 of revenue each year, that may be great if it takes 2 weeks to get it out the door, but is a horrible time investment if it will take 2 years to complete.
+Estimates are a necessary component of running a business. We need to have an idea of how soon we can have a feature in the customer's hands. If we’ve concluded a feature can add $150,000 of revenue each year, that may be great if it takes 2 weeks to get it out the door, but is a horrible time investment if it will take 2 years to complete.
 
 My opinions with estimates are the following:
 

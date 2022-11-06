@@ -53,7 +53,7 @@ Sprints require achievable short-term goals with a start and end date. To explor
 
 ![scrum table](/img/800/scrum-table.png.webp)
 
-I need to break the API into pieces that can be completed in 2-week increments. We don't plan super far ahead in Scrum (which is good, things change rapidly) so I just need to figure out what I can get done in my next sprint. I might be able to get some of the endpoints done quickly, but I have bugs to fix and I certainly don't want to miss my goals, so I play it safe and estimate that in this first sprint I can complete two of the endpoints.
+I need to break the API into pieces that can be completed in 2-week increments. We don't plan super far ahead in Scrum (which is good, as things change rapidly) so I just need to figure out what I can get done in my next sprint. I might be able to get some of the endpoints done quickly, but I have bugs to fix and I certainly don't want to miss my goals, so I play it safe and estimate that in this first sprint I can complete two of the endpoints.
 
 ![scrum table 2](/img/800/scrum-table2.png.webp)
 
@@ -81,13 +81,13 @@ If you still feel the need for a scrum master, just let the lead developer for t
 
 Within Scrum, estimates have a primary purpose - to figure out how much work the team can accomplish in a given sprint. If I were to grant that Sprints were a good idea (which I don't) then the description of estimates in the official Scrum guide wouldn't be a problem.
 
-The problem is that estimates in practice are a bastardization of reality. The Scrum guide is vague on the topic so managers take matters into their own hands. With this in mind, I'm again going to criticize some common practices that I have seen in regards to estimates.
+The problem is that estimates in practice are a bastardization of reality. The Scrum guide is vague on the topic so managers take matters into their own hands. With this in mind, I'm again going to criticize some common practices that I have seen regarding estimates.
 
 ### Fibonacci and T-Shirt Sizes
 
 Many super-hip organizations enjoy using the most confusing scales for estimates. They claim that this somehow makes estimating a faster and less stressful process. I remain woefully unconvinced.
 
-Here's a recap of first day at a new company during our estimation meeting after hearing they used the dreaded "story points" system:
+Here's a recap of the first day at a new company during our estimation meeting after hearing they used the dreaded "story points" system:
 
 > Me: "What's the time scale we use for points?"
 > Scrum master: "Fibonacci, where 8 points is the max because we defined it as the amount of work a developer can handle during a two-week sprint".

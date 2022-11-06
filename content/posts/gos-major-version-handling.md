@@ -66,15 +66,15 @@ The second option is to change the name of your module in `go.mod`. Fore example
 
 ### Why does this suck?
 
-* **It's hardly intuitive.** Newcomers to the Go ecosystem are going to have to learn this weird convention that's *almost completely* enforced by the toolchain. I found myself starting at my command line in confusion when trying to get to a next major version until I went and read through all the documentation.
+* **It's hardly intuitive.** Newcomers to the Go ecosystem are going to have to learn this weird convention that's *almost completely* enforced by the toolchain. I found myself staring at my command line in confusion when trying to get to a next major version until I went and read through all the documentation.
 * **Users of packages aren't alerted about new major versions** Because the import path is completely different, when users type `go get -u`, expecting to get the latest version of a package, they won't even get a command-line warning that a new major version exists. I understand not auto-updating, but at least tell me that I'm behind the curve.
 * **For the client to update, it's not a simple path change in go.mod** Users actually need to `grep` through their codebase and change each import statement to point to the new major version, it's a terrible developer experience.
-* **It's overkill for small or internal packages.** I work on a team that maintains many microservices, and we have a couple packages that are internal to our org but are shared by various projects. Due to our size, we don't need any kind of backwards compatibility, we just update everything. It's quite annoying to have the overbearing rules when we simply don't care.
+* **It's overkill for small or internal packages.** I work on a team that maintains many microservices, and we have a couple of packages that are internal to our org but are shared by various projects. Due to our size, we don't need any kind of backward compatibility, we just update everything. It's quite annoying to have overbearing rules when we simply don't care.
 
 ## Some ideas for the way I wish it were
 
 * Simply remove the path requirement. Maintainers should be able to increment the major version via Git tags.
-* Update the `go get` command to continue not auto-updating major-versions, but to give a warning message that a new major version exists.
+* Update the `go get` command to continue not auto-updating major versions, but to give a warning message that a new major version exists.
 * Add an optional flag to `go get` to allow for updating major versions.
 
 This all comes down to a fundamental issue I have with the "import compatibility rule".
@@ -83,7 +83,7 @@ This all comes down to a fundamental issue I have with the "import compatibility
 > 
 > [Import compatibility rule](https://research.swtch.com/vgo-import)
 
-I agree with the sentiment that we should only increment major versions when making breaking changes, but more often than not breaking changes are **really easy** to accommodate for. Go is a strongly typed language, and almost all breaking changes will cause compiler errors that are simple to fix. This kind of rule would add a lot more value to a language like Python or JavaScript.
+I agree with the sentiment that we should only increment major versions when making breaking changes, but more often than not breaking changes are **really easy** to accommodate. Go is a strongly typed language, and almost all breaking changes will cause compiler errors that are simple to fix. This kind of rule would add a lot more value to a language like Python or JavaScript.
 
 ### A Caveat - Diamond Imports
 
@@ -91,11 +91,11 @@ Using different paths for different major versions makes more sense in situation
 
 ## Why this is annoying for me personally
 
-I often want to build a package that has domain-specific logic that will only be used only in micro services at the small company I work for. For example, we have a repo that holds the `struct{}` definitions for common entities used across our system. Occasionally we need to make backward-incompatible changes to those struct definitions. If it were an open-source library we wouldn't make changes so often, but because it's internal and we are aware of all the dependencies, we change the names of exported fields _regularly_. We aren't changing names because we chose bad ones to begin with, we are usually changing names because requirements from the product side change rapidly in a startup.
+I often want to build a package that has domain-specific logic that will only be used only in microservices at the small company I work for. For example, we have a repo that holds the `struct{}` definitions for common entities used across our system. Occasionally we need to make backward-incompatible changes to those struct definitions. If it were an open-source library we wouldn't make changes so often, but because it's internal and we are aware of all the dependencies, we change the names of exported fields _regularly_. We aren't changing names because we chose bad ones, to begin with, we are usually changing names because requirements from the product side change rapidly in a startup.
 
 This means major version changes are a fairly regular occurrence. Some say that we should just stay on `v0`, and that's a reasonable solution. The problem is these ARE production packages that are being used by a wide number of services. We want to Semver.
 
-Go makes updating major versions so cumbersome that in the majority of cases, we have opted to just increment minor versions when we should increment major versions. We want to follow the proper versioning scheme, we just don't want to add the unnecessary steps to our dev process.
+Go makes updating major versions so cumbersome that in the majority of cases, we have opted to just increment minor versions when we should increment major versions. We want to follow the proper versioning scheme, we just don't want to add unnecessary steps to our dev process.
 
 ## I get why these rules exist, and I think they are great for large open projects
 

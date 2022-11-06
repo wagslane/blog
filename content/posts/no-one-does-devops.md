@@ -49,7 +49,7 @@ For example, if your "DevOps" and "developer" teams are completely separate, and
 
 ## Admit when you don’t like something
 
-If you take issue with a popular idea, that’s okay! In fact, I always love hearing opinions that deviate from the mainstream - especially if they’re well argued.
+If you take issue with a popular idea, that’s okay! In fact, I always love hearing opinions that deviate from the mainstream - especially if they’re well-argued.
 
 For example, I take issue with Scrum. I don’t pretend to like it. I don’t try to redefine Scrum to just mean "the [style of Kanban I happen to like](/posts/kanban-vs-scrum)". As a result, I disagree with some people, and that’s okay. On the other hand, the people that do agree with me tend to really like working with me. It’s okay to work with like-minded people!
 

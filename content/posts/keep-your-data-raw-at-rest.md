@@ -39,13 +39,13 @@ Since data being actively acted in by your code is ephemeral, we can make code c
 
 ## When you have a piece of data that’s dependent on other data, do your best not to store it
 
-Let’s say for example, that you’re building a movie review app. In your database, for each review, you store a field called `num_stars`, which is just an integer between 1 and 5. Then, later in development the product team asks for a new feature that shows a color on the review depending on the number of stars. 1 and 2 stars will be shown as red, 3 as yellow, and 4 and 5 are green. There are a couple of ways you can build this feature.
+Let’s say for example, that you’re building a movie review app. In your database, for each review, you store a field called `num_stars`, which is just an integer between 1 and 5. Then, later in development, the product team asks for a new feature that shows color on the review depending on the number of stars. 1 and 2 stars will be shown as red, 3 as yellow, and 4 and 5 are green. There are a couple of ways you can build this feature.
 
 ### Option 1 – Store the calculated field in the database
 
-You could create a new field in your database called `color`. Whenever a review is created, you simpy check the number of stars, and based on that you generate the `color` field and store it. Now when a user pulls that review from the database it’s ready to go with the `color` field generated!
+You could create a new field in your database called `color`. Whenever a review is created, you simply check the number of stars and based on that you generate the `color` field and store it. Now when a user pulls that review from the database it’s ready to go with the `color` field generated!
 
-### Option 2 – Generate the calculated field everytime it’s needed
+### Option 2 – Generate the calculated field every time it’s needed
 
 Whenever a review is requested from the database, the application code pulls the review data, then generates the `color` by doing a [post-hoc](https://en.wikipedia.org/wiki/Post_hoc) calculation.
 
@@ -54,7 +54,7 @@ Whenever a review is requested from the database, the application code pulls the
 Both options are probably equally easy to code and ship. The problems with option 1 will only show up later. Let’s look at a few potential issues.
 
 * **We decide we want five colors.** Reviews with 2 stars will now be orange, while 4-star reviews will be a yellow-green mush. Because the color data is stored, we need to write a script to go update all the colors in the database based on the dependency (num_stars). Had we taken option 2, it would be as simple as updating and deploying some code.
-* **A bug is deployed.** A new developer misunderstood the purpose of the code that generates and inserts the color field in the database. As such, they deployed a small bug that sets the color to always be green regardless of the num_stars field. Once the bug is discovered, again, we’ll need to write a, potentially dangerous, script or query to fix bad historical data. Has we used option 2, it would be a simple fix in code.
+* **A bug is deployed.** A new developer misunderstood the purpose of the code that generates and inserts the color field in the database. As such, they deployed a small bug that sets the color to always be green regardless of the num_stars field. Once the bug is discovered, again, we’ll need to write a, potentially dangerous, script or query to fix bad historical data. Had we used option 2, it would be a simple fix in code.
 
 ## Is it ever a good idea to store something that’s directly dependent on other data?
 

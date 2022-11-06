@@ -13,7 +13,7 @@ series: []
 audio: []
 ---
 
-Luckily, I’ve met very few engineers in my career who are outright opposed to continuous deployment. That said, I have met some, and I think their hesitation is usually rooted in the myth that continuous causes more disruptions to end-users than a batched release cycle.
+Luckily, I’ve met very few engineers in my career who are outright opposed to continuous deployment. That said, I have met some, and I think their hesitation is usually rooted in the myth that continuous deployment causes more disruptions to end-users than a batched release cycle.
 
 ## What is continuous deployment?
 
@@ -42,7 +42,7 @@ While the data speaks for itself, it also makes sense from a qualitative perspec
 
 Continuous deployments don’t create more bugs, but they do make it easier to get fixes out for existing bugs.
 
-## Even without bugs, aren’t continuous updates disruptive to end-users?
+## Even without bugs, aren’t continuous updates disruptive to end users?
 
 They can be, but it depends.
 
@@ -54,18 +54,18 @@ The problem with what DotA 2 is doing isn’t that they (might) do CD, it’s th
 
 ## Example 2: Major UI updates
 
-Another common complaint is that with continuous deployment, users will be constantly frustrated that the features and layout of the application are changing out from underneath them.
+Another common complaint is that with continuous deployment, users will be constantly frustrated that the features and layout of the application are changing from underneath them.
 
-This isn’t a problem with continuous deployment, it’s a problem of product planning.
+This isn’t a problem with continuous deployment, it’s a problem with of product planning.
 
 Just because continuous deployment gives us the tools to deploy UI/UX changes with less friction, doesn’t mean we should be doing it all the time. Sure, it’s probably not a big deal to change the wording on tooltips or make a shade of red a bit darker, but deploying wild menu and layout changes too frequently is an awful idea.
 
 Figure out the rate of change your customers are okay with and build your roadmap around that. Again, this has nothing to do with your deployment processes.
 
-There is only upside to continuous deployment within the context of UI/UX. When you discover a typo in some explainer text you can have the fix up within minutes, no one wants to manually build, ssh, pull, stop and start a server for something so trivial.
+There is only an upside to continuous deployment within the context of UI/UX. When you discover a typo in some explainer text you can have the fix up within minutes, no one wants to manually build, ssh, pull, stop and start a server for something so trivial.
 
 ## Example 3: Backend web servers
 
-When I’m updating code on a backend server I can deploy that project asynchronously with no effect on the end-user. There’s no reason not to use continuous deployment in such environments as long as the changes are backward compatible.
+When I’m updating code on a backend server I can deploy that project asynchronously with no effect on the end user. There’s no reason not to use continuous deployment in such environments as long as the changes are backward compatible.
 
 Backward compatibility is crucial in a continuous deployment process where multiple projects have asynchronous release cycles. It’s meaningless to point out how backward-incompatible changes to a REST API will break existing clients. Those same issues could be caused without continuous deployment.

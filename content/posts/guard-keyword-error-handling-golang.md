@@ -81,7 +81,7 @@ func CopyFile(src, dst string) (err error) {
 }
 ```
 
-I'm going to be honest, I don't think this "guard/must" proposal is a big improvement in terms of practicality. The basic idea here is that:
+To be honest, I don't think this "guard/must" proposal is a big improvement in terms of practicality. The basic idea here is that:
 
 * The `guard` keyword is syntactic sugar to return from a function when a function call returns in an error
 * The `must` keyword is syntactic sugar to `panic` on any error returned by a function call

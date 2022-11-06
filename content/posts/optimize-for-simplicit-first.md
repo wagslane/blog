@@ -31,7 +31,7 @@ For example, attempting to write a modern PC game in Ruby on Rails is a fool's e
 
 ## Memory problems
 
-Do you need Redis? Do you _really_ need Redis? Probably not. In the case of a web API, omit caching on your first iteration. Most servers don't require in-memory caching to effectively service users. When speed starts to become a problem, implement in-memory caching on the server itself if possible. In terms of overall system complexity, the only thing worse than code dependencies is infrastructure dependencies.
+Do you need Redis? Do you *really* need Redis? Probably not. In the case of a web API, omit caching on your first iteration. Most servers don't require in-memory caching to effectively service users. When speed starts to become a problem, implement in-memory caching on the server itself if possible. In terms of overall system complexity, the only thing worse than code dependencies is infrastructure dependencies.
 
 Only add a new database, caching system, queuing server, or NPM module if there are no simpler options.
 

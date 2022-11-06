@@ -26,7 +26,7 @@ Dev.to launched in 2015 (I believe, this was surprisingly difficult to search fo
 * Good content for beginners
 * Authors own their own content (per the terms and agreements)
 
-Dev.to has always seemed to be geared towards beginners, and there’s nothing wrong with that. In fact, the internet desperately needed a place for new developers to hang out without being flamed off of platforms like Reddit and StackOverflow, or overwhelmed by the more advanced topics on HackerNews.
+Dev.to has always seemed to be geared toward beginners, and there’s nothing wrong with that. In fact, the internet desperately needed a place for new developers to hang out without being flamed off of platforms like Reddit and StackOverflow, or overwhelmed by the more advanced topics on HackerNews.
 
 ## What went wrong?
 
@@ -39,7 +39,7 @@ As I’m writing this article, my Dev.to feed has the following four articles at
 * Top 5 IDE for Web Development – 67 likes
 * Using WebSockets with React – 6 likes
 * You don’t know spread operator – 11 likes
-* Map, Filter and Reduce explained – 6 likes
+* Map, Filter, and Reduce explained – 6 likes
 
 I’m definitely judging these articles by their titles, and maybe they actually contain great content, but my experience on Dev.to recently has left me jaded. Did we really need another article that has likely plagiarized the Google SERP for `map`, `filter`, and `reduce` usage? Does an article that lists five popular code editors deserve the attention it’s getting? My experience says probably not.
 
@@ -49,7 +49,7 @@ I’m sure the Dev.to team has realized this is a problem, so my guess is it’s
 
 In my experience, HackerNews and /r/programming are the two best communities, at least of the larger ones, for readers to find quality programming content. The issue is that the content found there isn’t written for beginners. Dev.to made a place for newbies to write and read, but the content is getting worse and worse.
 
-There is an important point to be made that to an experienced developer, almost all entry-level content could seem low-effort and low-quality. Let’s do our best not to fall into that trap. There is nothing inherently wrong with an article about the `map`, `filter`, and `reduce` functions, but my suspicion is that this particular article is just a worse version of what you’d find by on the first page of Google.
+There is an important point to be made that to an experienced developer, almost all entry-level content could seem low-effort and low-quality. Let’s do our best not to fall into that trap. There is nothing inherently wrong with an article about the `map`, `filter`, and `reduce` functions, but my suspicion is that this particular article is just a worse version of what you’d find on the first page of Google.
 
 Sure enough, as I now click through to the body of "Map, Filter and Reduce explained", I see code blocks without syntax highlighting enabled, sentences without a space between the last period and the first letter of the next sentence, and a slew of grammatical mistakes that could be solved with a simple writing plugin. It’s just not high-quality stuff. This article was clearly written very quickly, without much effort. Why is it at the top of my feed?
 
@@ -60,9 +60,9 @@ It’s easy to get experienced developers to downvote, flag, or even outright ba
 I think several changes could help. Dev.to has taken queues from blogging and social sites like Medium and Facebook, in that it doesn’t allow downvotes or flagging of content. This is likely done to encourage a positive and inclusive community, which is obviously a fantastic goal. The side effect is that garbage content lives on.
 
 1. Add the ability to downvote or flag content as low-quality, but without allowing other readers to see those flags. It would give the platform a way to get the good stuff to the top, but wouldn’t make newer writers feel picked on in public. It’s worth noting that [Dev.to currently has something like this](https://dev.to/community-moderation), but only trusted users can take those actions, and it’s clearly not enough.
-2. In addition to the flagging, it would be nice to be able to leave constructive feedback, without embarassing the author, and without the community labelling you a hater. In other words, I’d like to be able to leave a note on a specific part of the article, explaining privately to the author what they could do to improve the content.
-3. Foster a community for experienced developers. You don’t want the blind leading the blind. You still need a healthy amount of knowledgeable people in your community to help the newer folks. Keep in mind, you don’t actually need much advanced content to keep them around, but they’re leaving in droves because their contributions can’t compete with the clickbait.
-4. Better automatic article imports. A lot of my articles that were imported via RSS had some really janky post-import artifacts. My guess is this stuff could be mitigated by simple detection algorithms. For example, automatically detecting the language of code blocks, adding the first image in the post as the featured one and not including it twice, or notifying the writer of diffuculties parsing the RSS feed, so crap doesn’t get published accidentally.
+2. In addition to the flagging, it would be nice to be able to leave constructive feedback, without embarrassing the author, and without the community labeling you a hater. In other words, I’d like to be able to leave a note on a specific part of the article, explaining privately to the author what they could do to improve the content.
+3. Foster a community for experienced developers. You don’t want the blind leading the blind. You still need a healthy amount of knowledgeable people in your community to help the newer folks. Keep in mind, you don’t actually need much-advanced content to keep them around, but they’re leaving in droves because their contributions can’t compete with the clickbait.
+4. Better automatic article imports. A lot of my articles that were imported via RSS had some janky post-import artifacts. My guess is this stuff could be mitigated by simple detection algorithms. For example, automatically detecting the language of code blocks, adding the first image in the post as the featured one and not including it twice, or notifying the writer of difficulties parsing the RSS feed, so crap doesn’t get published accidentally.
 
 ## I like the goal of Dev.to
 

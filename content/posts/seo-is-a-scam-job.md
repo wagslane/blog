@@ -43,11 +43,11 @@ Let's get something straight, "technical SEO" is *not* hard. Most web platforms 
 * Have a user-friendly menu structure
 * Link internally to related content as appropriate
 
-Did I miss anything? Probably. But most other things are also not super important, and would have a fairly negligible impact on your rankings, especially on a smaller site.
+Did I miss anything? Probably. But most other things are also not super important and would have a fairly negligible impact on your rankings, especially on a smaller site.
 
-The point I'm making is that most "SEOs" use the same stupid 15 item checklist, and will tell you which rules you're breaking. Unfortunately for you, that's about 2% of the work. Actually *implementing* all those changes is where an "SEO" should add value - and some of them do, but many of them don't.
+The point I'm making is that most "SEOs" use the same stupid 15-item checklist, and will tell you which rules you're breaking. Unfortunately for you, that's about 2% of the work. Actually *implementing* all those changes is where an "SEO" should add value - and some of them do, but many of them don't.
 
-Oftentimes this means knowing how to code, but sometimes it just means being intimately familiar with the webtools the site uses.
+Oftentimes this means knowing how to code, but sometimes it just means being intimately familiar with the web tools the site uses.
 
 ## Doing keyword research vs product/market research
 
@@ -55,7 +55,7 @@ This one is a bit trickier - it's probably best that product research is not the
 
 In other words, your product marketing person (or team) probably needs to be the one deciding which clusters of keywords are valuable to your business. Your "SEO person" just isn't going to have enough information to make those decisions. Trouble is, once those clusters are identified with accuracy, doing keyword research is one of the easiest jobs in the world. It's as simple as pulling up SEMrush, Ahrefs, or even just Google Keyword Planner and looking for related keywords with a good ratio between monthly traffic, ranking difficulty, and relevance to your business.
 
-So what should you do? It's actually quite simple, you should take your internal product/marketing team and spend the 15 minutes required to teach them how to do keyword research. They will quickly be creating high-quality lists of keywords for your content writers to target that are more relevant that anything a dedicated "SEO" would come up with.
+So what should you do? It's actually quite simple, you should take your internal product/marketing team and spend the 15 minutes required to teach them how to do keyword research. They will quickly be creating high-quality lists of keywords for your content writers to target that are more relevant than anything a dedicated "SEO" would come up with.
 
 ## Creating organic content
 
@@ -79,16 +79,16 @@ So at the end of the day, it's simple, there are 3 main things to make sure you 
 
 1. Your page answers the search intent of the keyword you're targeting (provide value, don't stuff keywords)
 2. Your page does a great job delivering that value by being in-depth and having a great user experience
-3. Other pages in the internet link to you to as an additional signal that you are providing value
+Other pages on the internet link to you as an additional signal that you are providing value
 
-If you lurk in [/r/seo](https://reddit.com/r/seo) like I do sometimes, you'll see the same question frequently asked, "how do I get backlinks to my content"? Most people in the industry refer to this kind of backlink building as "offsite SEO", and most people will tell you there are 2 main ways to do it.
+If you lurk in [/r/seo](https://reddit.com/r/seo) as I do sometimes, you'll see the same question frequently asked, "how do I get backlinks to my content"? Most people in the industry refer to this kind of backlink building as "offsite SEO", and most people will tell you there are 2 main ways to do it.
 
 1. Cold emailing website owners and asking/paying for links.
 2. Guest posting on other people's websites and sneaking in links back to your site.
 
 I'm convinced that both of these approaches **suck**.
 
-I've never actually cold emailed anyone to ask them to include a link to my website, but I have ignored 100% of the requests I get from others, and I get a lot of requests. I've also watched hundreds of people in several online SEO communities complain that cold outreach has an insanely low success rate.
+I've never actually cold-emailed anyone to ask them to include a link to my website, but I have ignored 100% of the requests I get from others, and I get a lot of requests. I've also watched hundreds of people in several online SEO communities complain that cold outreach has an insanely low success rate.
 
 As far as guest posting goes, I don't think it's a terrible approach, but I still think it's less efficient than what I've been doing.
 
@@ -100,4 +100,4 @@ I've had much greater success focusing *completely* on "onsite SEO" and content 
 
 SEO has been a great growth channel for my side project, [Boot.dev](https://boot.dev). It allows me to inexpensively find customers who are interested in what I'm building consistently over time. I'm *not* knocking SEO as a growth channel, I'm knocking some bad (or maybe just outdated) industry practices that can harm businesses if they aren't familiar with the space.
 
-To sum up, if your "SEO person" believes their entire role is just to tell other people what they need to implement, create, distribute, or pay for in order to rank, they probably aren't a great SEO person. On the other hand, if they optimize your site personally, write great content and share it to relevant channels, they might be worth their salt.
+To sum up, if your "SEO person" believes their entire role is just to tell other people what they need to implement, create, distribute, or pay for to rank, they probably aren't great SEO people. On the other hand, if they optimize your site personally, write great content and share it with relevant channels, they might be worth their salt.

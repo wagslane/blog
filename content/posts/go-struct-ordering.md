@@ -13,7 +13,7 @@ series: []
 audio: []
 ---
 
-We had application at one of my previous companies that typically ran with ~2GB in memory at any given time, but simply changing the order of some uint variables we managed to drop the memory usage to less than 1.4GB. Let’s dive into how inefficient field ordering in Go structs can have a huge impact on the memory footprint of a program.
+We had applications at one of my previous companies that typically ran with ~2GB in memory at any given time, but by simply changing the order of some uint variables we managed to drop the memory usage to less than 1.4GB. Let’s dive into how inefficient field ordering in Go structs can have a huge impact on the memory footprint of a program.
 
 ## Our Situation
 
@@ -89,7 +89,7 @@ Alloc = 1084 MiB        TotalAlloc = 3012 MiB   Sys = 2713 MiB  NumGC = 19
 
 Notice that even though `NumPosts` only has a size of 1 byte, the next field, `Reach`, still starts at offset 2. A whole byte is being wasted! The same thing happens with the `NumLikes` field, it starts at offset 4 with a size of 1, but the struct still takes up the full 6 bytes.
 
-This may not seem like a big deal, but when you are storing millions of these structs in memory the bloat starts to add up quick.
+This may not seem like a big deal, but when you are storing millions of these structs in memory the bloat starts to add up quickly.
 
 If we change the stats struct such that the `uint16` isn’t defined between the `uint8`s:
 
@@ -119,7 +119,7 @@ With our first struct, the Reach field is between the NumPosts and NumLikes fiel
 
 ![mem1](/img/800/memory-usage-go.png.webp)
 
-In our updated struct however, we have grouped the smaller fields, and since they add up to the same amount of memory as the larger Reach field we can save some space!
+In our updated struct, however, we have grouped the smaller fields, and since they add up to the same amount of memory as the larger Reach field we can save some space!
 
 ![mem1](/img/800/memory-usage-go-2.png.webp)
 

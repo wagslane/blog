@@ -32,7 +32,7 @@ If you have access to the original book, you'll notice that Callister makes the 
 > … etc.
 
 
-Tad's challenge presents us with a false dichotomy and presupposes the existence of a God and a devil. Not everything must necessarily be of God or of the devil, nor can it be if these characters don’t exist.
+Tad's challenge presents us with a false dichotomy and presupposes the existence of a God and a devil. Not everything must necessarily be of God or the devil, nor can it be if these characters don’t exist.
 
 To take his logic just a little further, almost all holy texts speak ill of the devil, but that doesn’t mean that they are all true. If one is Mormon, then one must believe that the Quran isn't an inspired text, even though those books also preach against the devil’s wickedness.
 

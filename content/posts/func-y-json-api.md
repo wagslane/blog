@@ -19,7 +19,7 @@ First, before we dive into my *probably terrible* proposal, let's review some en
 
 ## REST
 
-Like I said, I use REST a lot. I like that it doesn't require any special software to be installed, most developers are vaguely familiar with it, and works on top of a standard HTTP 1 connection. Most servers and clients assume you'll be using making standard HTTP requests, so configuration of infrastructure is generally a simple task.
+As I said, I use REST a lot. I like that it doesn't require any special software to be installed, most developers are vaguely familiar with it, and works on top of a standard HTTP 1 connection. Most servers and clients assume you'll be using making standard HTTP requests, so the configuration of infrastructure is generally a simple task.
 
 The biggest problem I have with REST is that it requires *so much* documentation and architecture design. There are many ways to accomplish the same thing. Are parameters passed as headers, path parameters, or query parameters? Are things like authentication requests really `POST`s if they don't create anything?
 
@@ -27,7 +27,7 @@ To sum up the problem with REST, *there are too many ways to do the same thing, 
 
 ## GraphQL
 
-GraphQL improves upon some of the issues REST has. I would argue the biggest benefits GraphQL offers include a self-documenting API and the ability for the client to specify which data they want returned in any given request. I love these improvements, but I still have some complaints.
+GraphQL improves upon some of the issues REST has. I would argue the biggest benefits GraphQL offers include a self-documenting API and the ability for the client to specify which data they want to be returned in any given request. I love these improvements, but I still have some complaints.
 
 First, GraphQL isn't a simple "idea" like REST that you can easily build from scratch. GraphQL's methodology is quite heavy-handed, so you're almost *forced* into using a third-party library that enforces all the protocols. Second, the promise that the client can ask for data in "whatever way they want" is only partially true. The server still needs to support all the nested queries that the client could ask for in order for them to work, and more importantly, in order for them to work efficiently.
 
@@ -35,7 +35,7 @@ First, GraphQL isn't a simple "idea" like REST that you can easily build from sc
 
 So far, gRPC is my favorite option. Remote procedure calls allow us to essentially make function calls over a network connection, which is the best developer experience I can imagine. There are only 3 big downsides to gRPC that I'm worried about, and they are the only things that keep me from using it more.
 
-First, gRPC runs on HTTP 2.0. As a result, getting two servers to talk to each other and properly and load-balance requests can take some configuration. Most infrastructure defaults don't assume you'll be doing gRPC. I like to think this will get better in the future, but it's still a very real pain point. Second, gRPC doesn't really work in a browser client unless you use some [fairly hacky techniques](https://grpc.io/docs/platforms/web/quickstart/). Additionally, if you're building an API for external users, it is *not* safe to assume your users will be comfortable using a gRPC API.
+First, gRPC runs on HTTP 2.0. As a result, getting two servers to talk to each other properly and load-balance requests can take some configuration. Most infrastructure defaults don't assume you'll be doing gRPC. I like to think this will get better in the future, but it's still a very real pain point. Second, gRPC doesn't really work in a browser client unless you use some [fairly hacky techniques](https://grpc.io/docs/platforms/web/quickstart/). Additionally, if you're building an API for external users, it is *not* safe to assume your users will be comfortable using a gRPC API.
 
 ## My solution: "Func-y JSON"
 
@@ -90,7 +90,7 @@ For example, `/v1.0/stats/private/get_num_payments`
 
 ### The entire path, and all function input/output keys are snake_case
 
-Snake case seems like the best option because *I like it and I'm writing this blog post.* Also, URLs are not case sensitive, so it's not a dangerous choice.
+Snake case seems like the best option because *I like it and I'm writing this blog post.* Also, URLs are not case-sensitive, so it's not a dangerous choice.
 
 ## Example documentation
 
