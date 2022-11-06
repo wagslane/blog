@@ -136,4 +136,6 @@ func CopyFile(src, dst string) error {
 1. In the case that the `CopyFile` returns more than just a single error, `guard` would return zero values for everything but the non-nil error.
 2. I made up the `fmt.Guardf` function. We would need *something* like this. It's a version of `fmt.Errorf` that returns `nil` if the error that's passed in is `nil`.
 
-I think *something like this* could solve the only real problem with Go errors: How do we save those 3 lines of code while still encouraging good error wrapping?
+I think *something like this* could solve the only real problem with Go errors: "How do we save those 3 lines of code while still encouraging good error wrapping"? That said, I'm perfectly happy for us to do *absolutely nothing* about the "errors problem". After all, to quote [the Zen of Python](https://peps.python.org/pep-0020/):
+
+> There should be one-- and preferably only one --obvious way to do it.
