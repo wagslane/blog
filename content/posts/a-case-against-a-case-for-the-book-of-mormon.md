@@ -17,7 +17,7 @@ audio: []
 
 ## Disclaimer
 
-If you have access to the original book, you'll notice that Callister makes the same errors over and over in many disparate sections of the book. In those cases, I will only give one or two examples, but it's worth pointing out that the same errors often crop of frequently throughout the book.
+If you have access to the original book, you'll notice that Callister makes the same errors over and over in many disparate sections of the book. In those cases, I will only give one or two examples, but it's worth pointing out that the same errors often crop up frequently throughout the book.
 
 ## Pg.6–7 A challenge issued by the author
 
@@ -32,7 +32,7 @@ If you have access to the original book, you'll notice that Callister makes the 
 > … etc.
 
 
-Tad's challenge presents us a false dichotomy, and presupposes the existence of a God and a devil. Not everything must necessarily be of God or of the devil, nor can it be if these characters don’t exist.
+Tad's challenge presents us with a false dichotomy and presupposes the existence of a God and a devil. Not everything must necessarily be of God or of the devil, nor can it be if these characters don’t exist.
 
 To take his logic just a little further, almost all holy texts speak ill of the devil, but that doesn’t mean that they are all true. If one is Mormon, then one must believe that the Quran isn't an inspired text, even though those books also preach against the devil’s wickedness.
 
@@ -43,7 +43,7 @@ To take his logic just a little further, almost all holy texts speak ill of the 
 
 This theme is common throughout Callister’s book. Callister believes that testimony given by the party whose testimony is on trial is a form of evidence. I hope it's apparent why that isn't a good source of evidence.
 
-## Pg. 18–19 Why would Oliver not denounce the BoM after his excommunication?
+## Pg. 18–19 Why would Oliver not denounce the BoM after his ex-communication?
 
 > … eight years after the Book of Mormon was published, Oliver was excommunicated from the Church. If there were ever a time to expose Joseph Smith as a fraud, that was it — his chance to get even and to declare who the true author was.
 
@@ -57,21 +57,21 @@ That said, we can't be sure why Oliver didn't denounce the book. We can only gue
 
 The less similar the two books are, ("View of the Hebrews" and "The Book of Mormon") the less likely it is that Smith plagiarized from "View of the Hebrews". However, asserting that there are differences is not any sort of proof against the similarities that do exist. At the end of the day there is no concrete evidence of plagiarism, so readers should decide for themselves. A list of similarities can be found here: https://read.cesletter.org/bom/#view-of-the-hebrews
 
-It's also worth pointing out that this isn't a case *for* the book of mormon, but a refutation of a case *against* the book of mormon.
+It's also worth pointing out that this isn't a case *for* the Book of Mormon, but a refutation of a case *against* the Book of Mormon.
 
 ## Pg 27. Joseph Smith the Creative Genius
 
 > Many critics today subscribe to the theory that Joseph Smith alone was able to compose the Book of Mormon because he was a creative genius. This is a 180-degree turnabout from the premise of earlier critics, who claimed that Joseph was too illiterate, too ignorant to write such a work on his own…. the critics have now come full circle, back to the same argument.. that Joseph Smith was the sole author of the Book of Mormon.
 
-Showing that different critics of Mormonism (or of any religion) have different (or changing) theories on how religious history could have happened does not in any way provide evidence for the truthfullness of the religion(s) in question. Critics aren’t a monolithic group who claim to all hold the same beliefs. Callister can’t prove the critics wrong by asserting the well-known fact that some have different theories than others.
+Showing that different critics of Mormonism (or of any religion) have different (or changing) theories on how religious history could have happened does not in any way provide evidence for the truthfulness of the religion(s) in question. Critics aren’t a monolithic group that claims to all hold the same beliefs. Callister can’t prove the critics wrong by asserting the well-known fact that some have different theories than others.
 
-The truth is that we might not ever know with a high-degree of confidence exactly who wrote which parts of the book or how long it took in total. All we have are the documents themselves and testimony of the people involved.
+The truth is that we might not ever know with a high degree of confidence exactly who wrote which parts of the book or how long it took in total. All we have are the documents themselves and the testimony of the people involved.
 
 ## Bad sources used for testimony
 
-As I've pointed out before, any testimonies given by the inner-circle of BoM creators must not be given credit. Whether or not the book is true we would expect the creators to defend it's truthfulness. Many times Callister relies on the testimony of Joseph’s family, friends, and leaders of the church as a source to prove the authenticity of the BoM. Examples include:
+As I've pointed out before, any testimonies given by the inner circle of BoM creators must not be given credit. Whether or not the book is true we would expect the creators to defend its truthfulness. Many times Callister relies on the testimony of Joseph’s family, friends, and leaders of the church as a source to prove the authenticity of the BoM. Examples include:
 
-* "Jospeh’s wife Emma, the person who knew him better than any other, confirmed this conclusion, "Joseph Smith could neither write nor dictate a coherent and well-worded letter, let alone dictate a book like the Book of Mormon." pg. 28
+* "Joseph's wife Emma, the person who knew him better than any other, confirmed this conclusion, "Joseph Smith could neither write nor dictate a coherent and well-worded letter, let alone dictate a book like the Book of Mormon." pg. 28
 * "The suggestion that Joseph Smith researched and read a substantial number of these books or other local resources is a far cry from his mother’s observation…" pg. 28
 * "Is there any record that Joseph had any of these books or notes present when he translated the Book of Mormon? No. Emma Smith was a firsthand witness of this." pg. 29
 * "Mr. Whitmer emphatically asserts as did Harris and Cowdery, that while Smith was dictating the translation, he had no manuscript…" pg. 30
@@ -99,7 +99,7 @@ Nibley makes a classic "appeal to authority" or "appeal to popularity" fallacy h
 
 > Tens of thousands of salespersons must give eighteen months or more of their lives, paying their own expenses and bearing witness of the truths of this book.
 
-I was once a missionary for the Mormon church. People tend to stick with the religion and belief systems they are raised with. This is a phenomenon that can be observed across the world, and it does little to set the Book of Mormon apart as a divine text. I will admit that the Mormon church has somewhat uniquely been able to get it's members to donate a *significant* amount of time and money, in many cases much moreso than other religions. I think that has to do with the kind of culture the church has evolved into however, and has little to say about truthfulness. We have many examples of people taking much more extreme measures in the name of faith, especially if we look back throughout history.
+I was once a missionary for the Mormon church. People tend to stick with the religion and belief systems they are raised with. This is a phenomenon that can be observed across the world, and it does little to set the Book of Mormon apart as a divine text. I will admit that the Mormon church has somewhat uniquely been able to get its members to donate a *significant* amount of time and money, in many cases much more than other religions. I think that has to do with the kind of culture the church has evolved into, however, and has little to say about truthfulness. We have many examples of people taking much more extreme measures in the name of faith, especially if we look back throughout history.
 
 > You must finish writing this book in sixty-five working days or fewer.
 
@@ -113,19 +113,19 @@ What isn’t quoted by Callister is this same brother Welch later saying,
 
 > Some people, of course, have gone overboard with this search, and caution must be employed; otherwise, it is possible to find chiasmus in the telephone book, and the effort becomes meaningless .. One must be careful in this quest, however, to avoid the problems of the ‘hammer syndrome’-to the person holding a hammer, everything looks like a nail. To the person who knows only chiasmus and no other form of literary composition, everything may start looking like a chiasm.
 
-[This source](http://www.mormonthink.com/glossary/chiasmus.htm) goes on to explain how chiasmus are easily found in Dr. Suess and children’s rhymes, both, of course, we know not to be written in the Hebrew style.
+[This source](http://www.mormonthink.com/glossary/chiasmus.htm) goes on to explain how chiasmus is easily found in Dr. Suess and children’s rhymes, both, of course, we know not to be written in the Hebrew style.
 
-I'll grant that this is another point in favor of Hebrew authorship, however, I then must award two points in favor of fradulent authorship due to the Book of Mormon being written in the 19th century in 17th century English, and an additional 3 points because the [translation errors found in Isaiah are also found in the BOM](https://cesletter.org/1769-kjv-errors/).
+I'll grant that this is another point in favor of Hebrew authorship, however, I then must award two points in favor of fraudulent authorship due to the Book of Mormon being written in the 19th century in 17th-century English, and an additional 3 points because the [translation errors found in Isaiah are also found in the BOM](https://cesletter.org/1769-kjv-errors/).
 
-## Pg 62. The lord gives signs to strengthen testimonies
+## Pg 62. The Lord gives signs to strengthen testimonies
 
 > Physical evidences played a significant role in the conversion of many Lamanites. They witness a cloud of darkness and a pillar of fire…
 
-It is suspicious that the inverse correlation between the strength of God’s miracles and human ability to verify them is so strong.
+It is suspicious that the inverse correlation between the strength of God’s miracles and the human ability to verify them is so strong.
 
 ![img](https://miro.medium.com/max/1400/1*B4HLREOmG_oNPppJXt5DSQ.jpeg)
 
-Worldwide floods, pillars of fire, and days of darkness are frequent in the old testament and the Book of Mormon, where we have practically no way to verify the claims (assuming that Go hid the evidence, because we would expect to see some remnants of a worldwide flood). The miracles of the new testament were fewer but still fantastical. Even the early Mormon pioneers and prophets claim miraculous visitations, while in today’s general conference we are amazed by the following groundbreaking revelations:
+Worldwide floods, pillars of fire, and days of darkness are frequent in the old testament and the Book of Mormon, where we have practically no way to verify the claims (assuming that Go hid the evidence because we would expect to see some remnants of a worldwide flood). The miracles of the new testament were fewer but still fantastical. Even the early Mormon pioneers and prophets claim miraculous visitations, while in today’s general conference we are amazed by the following groundbreaking revelations:
 
 * Women may now wear pants while doing missionary work.
 * Children of gay parents can't be baptized
@@ -142,9 +142,9 @@ The argument here is levied against Christian critics of the Book of Mormon. Thi
 
 > If I were to ask my Christian friends how they unquestionably know the Bible to be the word of God, I believe they would refrain from citing archaeological discoveries or linguistic connections with ancient Hebrew of Greek as their prime evidence, but rather they would make reference to the Spirit.
 
-I’m so glad Callister decided to include this, because it is a great argument against The Church’s advertised method of finding truth: the Holy Spirit. If the Holy Spirit were the only way for us to know which church is true, why did God choose to make it so confusing? [People all around the world testify](https://www.youtube.com/watch?v=UJMSU8Qj6Go&t=111s) that they have felt God testify to them that the beliefs they happened to be taught as children are the correct ones.
+I’m so glad Callister decided to include this because it is a great argument against The Church’s advertised method of finding truth: the Holy Spirit. If the Holy Spirit were the only way for us to know which church is true, why did God choose to make it so confusing? [People all around the world testify](https://www.youtube.com/watch?v=UJMSU8Qj6Go&t=111s) that they have felt God testify to them that the beliefs they happened to be taught as children are the correct ones.
 
-## Pg. 94 The straight line analogy
+## Pg. 94 The straight-line analogy
 
 > Suppose that the single point above represents the Bible, that each straight line (that can be drawn through the point) represents a different interpretation of the Bible, and that each interpretation represents a different church. Now ask yourself, "how many straight lines can be drawn between two points…?
 
@@ -160,7 +160,7 @@ This deceptive analogy is easily demonstrated as fallacious with any of the foll
 
 > Menno Simons, an Anabaptist, wrote, "We do not find in all Scripture a single word by which Christ has ordained the baptism of infants, or that His apostles taught and practiced it, we say and confess rightly that infant baptism is but a human invention, an opinion of men, a perversion of the ordinance of Christ". How does the Book of Mormon keep getting the doctrine right?
 
-Here Callister looks to the Anabaptists as a source of truth on infant baptism. He only does this because Mormons happen to agree with Anabaptists on this particular doctrine. The tautology here is clear. I hope it's apparent that using the Anabaptists beliefs to prove the Book of Mormon isn’t a great strategy, if it were, we would also need to assume they're correct about the BoM being a fradulent work.
+Here Callister looks to the Anabaptists as a source of truth on infant baptism. He only does this because Mormons happen to agree with Anabaptists on this particular doctrine. The tautology here is clear. I hope it's apparent that using the Anabaptist's beliefs to prove the Book of Mormon isn’t a great strategy, if it were, we would also need to assume they're correct about the BoM being a fraudulent work.
 
 ## Pg 109. Ongoing Revelation
 
@@ -170,21 +170,21 @@ If we had any proof of Callister’s claims that God speaks today, then this wou
 
 I also find it suspicious that "ongoing revelation" is used frequently in the modern church to backtrack and cover up obvious mistakes.
 
-* Polygamy: The God of the old testament would have sooner burned Washington DC to the ground than not get his way. The "new revelation" instead showed that he just changed his mind about the whole ordeal.
+* Polygamy: The God of the old testament would have sooner burned Washington DC to the ground than not gotten his way. The "new revelation" instead showed that he just changed his mind about the whole ordeal.
 * The curse prohibiting blacks from holding the priesthood suspiciously was lifted right after the civil rights movement.
 * In 2015 God decided that children of gay couples shouldn’t be allowed to get baptized until they are older (which additionally brings into question the age of eight as the proper age of accountability), then through "new revelation" decided to reverse that in 2019.
 
 ## Pg. 112–116 Truth clarified by the Book of Mormon
 
-On these pages, Callister has a table of information that attempts to prove the Book of Mormon’s truthfulness by showing how it "clarified" points of contentious Christian doctrine. All he actually proves is that just like every other Christian sect, the Mormons have yet another unverifiably correct interpretation of the Bible.
+On these pages, Callister has a table of information that attempts to prove the Book of Mormon’s truthfulness by showing how it "clarified" points of contentious Christian doctrine. All he proves is that just like every other Christian sect, the Mormons have yet another unverifiably correct interpretation of the Bible.
 
 ## Pg. 143 David Whitmer’s testimony
 
-David Whitmer is cited saying, "Our testimony is true, And if these things are not true, then there is no truth, and if there is no truth, there is no God, and if there is no God, there is no existence."
+David Whitmer is cited as saying, "Our testimony is true, And if these things are not true, then there is no truth, and if there is no truth, there is no God, and if there is no God, there is no existence."
 
 Here I criticize Whitmer, not Callister. I reject every step in Whitmer’s argument.
 
-* "If our testimony isn’t true then there is no truth" — No. Whitmer and friends can be lying or delusional. There are more candidate explanations.
+* "If our testimony isn’t true then there is no truth" — No. Whitmer and their friends can be lying or delusional. There are more candidate explanations.
 * "If there is no truth, there is no God" — I don’t know what this means, but it is certainly a non-sequitur. I can imagine a deity that lies, but even that might be missing his point.
 * "If there is no God, there is no existence" — We have no reason to believe that a God is necessary for existence. We have evidence of existence, and yet no evidence for a God.
 
@@ -192,7 +192,7 @@ Here I criticize Whitmer, not Callister. I reject every step in Whitmer’s argu
 
 > The impartial and unbiased judge must admit that the testimonies of the eleven witnesses, as supported by overwhelming historical evidence, are a very convincing evidence of the truth of the Book of Mormon.
 
-First, I hope Mormons and non-Mormons alike can agree that there is nowhere near an "overwhelming historical evidence" of the Book of Mormon. I certainly would have agreed to that as a believing member of the church. If there were, we would have been teaching archeology as the primary subject of the missionary discussions.
+First, I hope Mormons and non-Mormons alike can agree that there is nowhere near "overwhelming historical evidence" of the Book of Mormon. I certainly would have agreed to that as a believing member of the church. If there were, we would have been teaching archeology as the primary subject of the missionary discussions.
 
 Second, the testimony of eleven of Smith’s friends and family who were given leadership positions within the church is not super convincing evidence. The hundreds of Catholic saints who performed or "witnessed" miracles are not evidence of the truthfulness of Roman Catholicism, let us apply that logic equally to all religions.
 
@@ -202,13 +202,13 @@ Second, the testimony of eleven of Smith’s friends and family who were given l
 
 > As you read each page ask, ‘could any man have written this book, or did it come as Joseph Smith testified?’ pg. 31
 
-I think this has been repeated so many times by members of the church that many take it to be true without much thought. Think of books like The Lord of the Rings. Entire worlds created fictitiously, with entire languages created to supplement the fictitious world. Humans are creative, and this argument is weak.
+I think this has been repeated so many times by members of the church that many take it to be true without much thought. Think of books like The Lord of the Rings. Entire worlds are created fictitiously, with entire languages created to supplement the fictitious world. Humans are creative, and this argument is weak.
 
 For example, how did:
 
 * L Ron Hubbard — Scientology
 * Charles Taze Russell — Jehovah’s Witnesses
-* Siddhartha Gautama — Buddisms
+* Siddhartha Gautama — Buddhisms
 
 ..all write scriptures that could convince so many of their truth? People believe and feel strongly about the darnedest things.
 
@@ -218,11 +218,11 @@ For example, how did:
 
 This quote from the Bible asks us to adopt belief systems without proof. It demands us to be obedient servants to the religious authorities of the time, whether it be the Pope, the King of England, or the Mormon Prophet.
 
-I want a world where skepticism, observation, and experimentation are the gold-standards for truth, not belief in the first person or book who scares you with unverifiable claims of Hellfire.
+I want a world where skepticism, observation, and experimentation are the gold standards for truth, not belief in the first person or book that scares you with unverifiable claims of Hellfire.
 
 ## The spirit
 
-Callister concludes his book by pointing out the only true way to gain a testimony of the authenticity of the Book of Mormon is through divine revelation. I agree, that must be the only way because all these other arguments aren't doing it for me.
+Callister concludes his book by pointing out that the only true way to gain a testimony of the authenticity of the Book of Mormon is through divine revelation. I agree, that must be the only way because all these other arguments aren't doing it for me.
 
 Unfortunately, there are also problems with personal revelation apparently.
 

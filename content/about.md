@@ -11,4 +11,4 @@ Feel free to subscribe directly to my [RSS feed](/index.xml) if you enjoy my pos
 
 ## Current projects
 
-I've been hacking on [Boot.dev](https://boot.dev) for the couple years or so because I think education for backend developers is *broken*.
+I've been hacking on [Boot.dev](https://boot.dev) for a couple of years or so because I think that education for backend developers is *broken*.
