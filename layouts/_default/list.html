@@ -1,20 +1,23 @@
 {{ partial "header.html" . }}
 
-<h1 class="text-4xl">{{ .Title | markdownify }}</h1>
+<div class="max-w-3xl m-auto p-4">
 
-<hr>
+  <h1 class="text-4xl">{{ .Title | markdownify }}</h1>
 
-{{ .Content }}
+  <hr>
 
-<ul class="list-disc">
-  {{ $pages := .Pages }}
-  {{ if .IsHome }}{{ $pages = .Site.RegularPages }}{{ end }}
-  {{ range (where $pages "Section" "!=" "") }}
-  <li class="ml-4">
-    <span>{{ .Date.Format "Jan 02, 2006" }} -</span>
-    <a class="link" href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
-  </li>
-  {{ end }}
-</ul>
+  {{ .Content }}
+
+  <ul class="list-disc">
+    {{ $pages := .Pages }}
+    {{ if .IsHome }}{{ $pages = .Site.RegularPages }}{{ end }}
+    {{ range (where $pages "Section" "!=" "") }}
+    <li class="ml-4">
+      <span>{{ .Date.Format "Jan 02, 2006" }} -</span>
+      <a class="link" href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
+    </li>
+    {{ end }}
+  </ul>
+</div>
 
 {{ partial "footer.html" . }}
