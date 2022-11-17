@@ -6,7 +6,7 @@ images:
 
 ## Current projects
 
-I'm building [Boot.dev](https://boot.dev) because I believe e-learning for back-end developers is a neglected area of focus and should include more computer science fundamentals. E-learning for programmers can be a lot better by mixing the most appropriate mediums of learning. Learning should feel like a game, and it should be *very* hands-on.
+I'm building [Boot.dev](https://boot.dev) because e-learning for back-end developers is shamefully neglected. Learning to code should feel like a game, and should be *very* hands-on.
 
 ## Get in touch
 
