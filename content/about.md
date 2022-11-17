@@ -17,6 +17,7 @@ I'm building [Boot.dev](https://boot.dev) because I believe e-learning for back-
 
 ## Podcast / show appearances
 
+* Nov 15, 2022: [JavaScript Jabber](https://topenddevs.com/podcasts/javascript-jabber)
 * Nov 08, 20022: [Views on Vue](https://topenddevs.com/podcasts/views-on-vue/episodes/vue-3-and-functional-programming-vue-202)
 * Oct 28, 2022: [Compressed.fm](https://www.youtube.com/watch?v=5RdudtFFVXE)
 * Sep 12, 2022: [Chris Sean Talks](https://podcasts.apple.com/us/podcast/lane-wagner-quit-his-200k-tech-job-to-teach-you-cs/id1516881852?i=1000579276107)
