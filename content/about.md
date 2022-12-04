@@ -4,9 +4,7 @@ images:
  - /img/800/profilephoto.png.webp
 ---
 
-## Current projects
-
-I'm building [Boot.dev](https://boot.dev) because e-learning for back-end developers is shamefully neglected. Learning to code should feel like a game, and should be *very* hands-on.
+I've been writing code since 2010, first in Python, then primarily in Go and JavaScript. I've spent most of my career as a cloud-native backend developer, but I also write React and Vue for my various side projects. After a couple of years leading teams of Go developers, I'm now working full-time on [Boot.dev](https://boot.dev) helping new developers learn back-end engineering and computer science.
 
 ## Get in touch
 
