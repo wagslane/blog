@@ -44,7 +44,7 @@ MINOR version when you add functionality in a backwards compatible manner, and
 PATCH version when you make backwards compatible bug fixes.
 ```
 
-So far so good, I love everything about Go's dependency management up to this point. My favorite part is that the Go toolchain doesn't have a central repository of builds you need to publish to in order to share a package. We just use Git repositories! Amazing.
+So far so good, I love everything about Go's dependency management up to this point. My favorite part is that the Go toolchain doesn't have a central repository of builds you need to publish to to share a package. We just use Git repositories! Amazing.
 
 ## The big problem: major version increments
 

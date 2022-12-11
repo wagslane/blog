@@ -21,7 +21,7 @@ If I were to generalize, I'd say most of the companies I’m picking on fall int
 * They believe in DevOps ideas, but they’re unwilling to invest in changing their ways.
 * They aren’t convinced that some of the scarier ideas (like [deploying multiple times per day](/posts/continuous-deployments-arent-continuous-disruptions)) will help after all.
 
-It’s not like DevOps methodologies solved all of the industries' problems in one fell swoop. However, because the industry as a whole has bought into the mantra, "DevOps good", I think companies feel that if they aren't going to "do DevOps", that they need to rebrand the term "DevOps" to mean "what we happen to already do".
+It’s not like DevOps methodologies solved all of the industries' problems in one fell swoop. However, because the industry as a whole has bought into the mantra, "DevOps good", I think companies feel that if they aren't going to "do DevOps", they need to rebrand the term "DevOps" to mean "what we happen to already do".
 
 To me, the most egregious example of this is when a company simply changes the job titles of all its ops people. John use to be an "IT Operations" guy, but now he's a "DevOps Engineer".
 
@@ -49,7 +49,7 @@ For example, if your "DevOps" and "developer" teams are completely separate, and
 
 ## Admit when you don’t like something
 
-If you take issue with a popular idea, that’s okay! In fact, I always love hearing opinions that deviate from the mainstream - especially if they’re well-argued.
+If you take issue with a popular idea, that’s okay! I always love hearing opinions that deviate from the mainstream - especially if they’re well-argued.
 
 For example, I take issue with Scrum. I don’t pretend to like it. I don’t try to redefine Scrum to just mean "the [style of Kanban I happen to like](/posts/kanban-vs-scrum)". As a result, I disagree with some people, and that’s okay. On the other hand, the people that do agree with me tend to really like working with me. It’s okay to work with like-minded people!
 

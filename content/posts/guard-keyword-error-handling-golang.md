@@ -92,7 +92,7 @@ To be honest, I don't think this "guard/must" proposal is a big improvement in t
 
 ## Problem #2 - Missing context
 
-Strictly returning errors in Go isn't always the best way to handle them, in fact it's usually not. It's best to [wrap them](https://blog.boot.dev/golang/wrapping-errors-in-go-how-to-handle-nested-errors/) with additional context. For example:
+Strictly returning errors in Go isn't always the best way to handle them, in fact, it's usually not. It's best to [wrap them](https://blog.boot.dev/golang/wrapping-errors-in-go-how-to-handle-nested-errors/) with additional context. For example:
 
 ```go
 func CopyFile(src, dst string) error {

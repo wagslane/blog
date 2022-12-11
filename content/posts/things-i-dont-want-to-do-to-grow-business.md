@@ -15,7 +15,7 @@ audio: []
 
 Working on a side project that aspires to be a real business has its ups and downs, especially after you've been at it for over 2 years. I've been hacking away at [Boot.dev](https://boot.dev) since March 2020, and for the most part, it's been a ton of fun. However, at the end of the day, if you want your project to earn you enough cash that you can quit your day job, you have to work on some things that are *less* fun. For me, this means marketing, sales, taxes, content creation... basically everything apart from coding the platform and creating new coding courses.
 
-With that in mind, I'm a big fan of trying my best to avoid the things I hate doing. That doesn't mean they don't need to happen - the business needs what it needs. In order to keep my sanity, I try to just figure out which things I *truly hate* doing, and hire people out for that.
+With that in mind, I'm a big fan of trying my best to avoid the things I hate doing. That doesn't mean they don't need to happen - the business needs what it needs. To keep my sanity, I try to just figure out which things I *truly hate* doing, and hire people out for that.
 
 You might be thinking:
 
@@ -54,7 +54,7 @@ I have an accountant now, even though you would probably look at how much I earn
 
 ### YouTube
 
-Whenever I talk to a friend about what I'm building and how I've been finding new students, they inevitably say I should start a YouTube channel. That may be good advice. In fact, I've noticed that it's common for coding educators to have a channel. Of course, their courses are typically videos themselves, while mine are not.
+Whenever I talk to a friend about what I'm building and how I've been finding new students, they inevitably say I should start a YouTube channel. That may be good advice. I've noticed that it's common for coding educators to have a channel. Of course, their courses are typically videos themselves, while mine are not.
 
 However, all that remains besides the point. Creating videos *might* be the best way for Boot.dev to grow, *but I don't want to make videos*. If I eventually get into the YouTube game, I'd probably start by sponsoring some channels that have related content that I like. Alternatively, I might try to start a channel where I don't need to be directly involved in speaking or recording myself.
 

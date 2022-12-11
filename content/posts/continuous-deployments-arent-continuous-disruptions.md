@@ -48,7 +48,7 @@ They can be, but it depends.
 
 ## Example 1: DotA 2 and other online games
 
-I’m a fan of the popular PC game DotA 2. As a user of their game, I’m really annoyed by how often they release small patch updates. It’s not uncommon for me to play three or four games back-to-back and have to download updates in between games. This is a highly disruptive experience because, in order to update, I have to close the game client, download the patch, and restart the game.
+I’m a fan of the popular PC game DotA 2. As a user of their game, I’m annoyed by how often they release small patch updates. It’s not uncommon for me to play three or four games back-to-back and have to download updates in between games. This is a highly disruptive experience because, to update, I have to close the game client, download the patch, and restart the game.
 
 The problem with what DotA 2 is doing isn’t that they (might) do CD, it’s that they have not made the patching experience seamless. For example, they could allow patches to be downloaded while the game is open like Blizzard does with their launcher. Alternatively, they could flag certain kinds of updates to be "lazy". For example, inconsequential bug fixes wouldn’t require a game restart could just update the next time you close the game.
 
@@ -56,7 +56,7 @@ The problem with what DotA 2 is doing isn’t that they (might) do CD, it’s th
 
 Another common complaint is that with continuous deployment, users will be constantly frustrated that the features and layout of the application are changing from underneath them.
 
-This isn’t a problem with continuous deployment, it’s a problem with of product planning.
+This isn’t a problem with continuous deployment, it’s a problem with product planning.
 
 Just because continuous deployment gives us the tools to deploy UI/UX changes with less friction, doesn’t mean we should be doing it all the time. Sure, it’s probably not a big deal to change the wording on tooltips or make a shade of red a bit darker, but deploying wild menu and layout changes too frequently is an awful idea.
 

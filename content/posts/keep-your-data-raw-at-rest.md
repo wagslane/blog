@@ -54,7 +54,7 @@ Whenever a review is requested from the database, the application code pulls the
 Both options are probably equally easy to code and ship. The problems with option 1 will only show up later. Let’s look at a few potential issues.
 
 * **We decide we want five colors.** Reviews with 2 stars will now be orange, while 4-star reviews will be a yellow-green mush. Because the color data is stored, we need to write a script to go update all the colors in the database based on the dependency (num_stars). Had we taken option 2, it would be as simple as updating and deploying some code.
-* **A bug is deployed.** A new developer misunderstood the purpose of the code that generates and inserts the color field in the database. As such, they deployed a small bug that sets the color to always be green regardless of the num_stars field. Once the bug is discovered, again, we’ll need to write a, potentially dangerous, script or query to fix bad historical data. Had we used option 2, it would be a simple fix in code.
+* **A bug is deployed.** A new developer misunderstood the purpose of the code that generates and inserts the color field in the database. As such, they deployed a small bug that sets the color to always be green regardless of the num_stars field. Once the bug is discovered, again, we’ll need to write a, potentially dangerous, script or query to fix bad historical data. Had we used option 2, it would be a simple code fix.
 
 ## Is it ever a good idea to store something that’s directly dependent on other data?
 

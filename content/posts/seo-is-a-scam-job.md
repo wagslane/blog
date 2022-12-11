@@ -69,7 +69,7 @@ Content distribution *as a task* requires no special skills - it can often be au
 
 On the other hand, putting together a plan and then executing that plan efficiently via a well-documented workflow does take some experience. Knowing which communities will be interested in your content, and putting together a repeatable plan to effectively reach those people isn't a walk in the park. It takes serious customer research. Again, we run into the problem of the average SEO not being an expert on the product personas being targeted.
 
-A good "SEO" is just a good marketer at the end of the day, and in order to be successful, they need to have a deep understanding of the people they are trying to reach. If they do, they will likely do a great job distributing content.
+A good "SEO" is just a good marketer at the end of the day, and to be successful, they need to have a deep understanding of the people they are trying to reach. If they do, they will likely do a great job distributing content.
 
 ## Growing a backlink profile
 

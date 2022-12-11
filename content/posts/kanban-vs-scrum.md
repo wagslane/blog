@@ -105,13 +105,13 @@ Kanban places emphasis on continuous integration and delivery. If you’re a fan
 
 ## No required roles
 
-Scrum has a product owner, a project manager (dubbed the scrum master), and a development team. Kanban has team members. There actually isn’t much to say here other than what I've already said about [hands-off project managers](https://wagslane.dev/posts/managers-that-cant-code/) being a mistake.
+Scrum has a product owner, a project manager (dubbed the scrum master), and a development team. Kanban has team members. There isn’t much to say here other than what I've already said about [hands-off project managers](https://wagslane.dev/posts/managers-that-cant-code/) being a mistake.
 
 My main criticism of the way many Scrum teams are organized is that the person who is responsible for timelines often doesn’t have the product knowledge or technical chops to understand what's going on. They should know why we are working on a certain feature or bug next and ideally even have the technical knowledge to understand why all of this coding stuff is taking so long.
 
 ## Estimates
 
-When I work, I don’t take estimates as seriously as most Scrum teams do. I’m not sure if this is actually a Kanban vs Scrum idea – but I'll give you my personal 2 cents.
+When I work, I don’t take estimates as seriously as most Scrum teams do. I’m not sure if this is a "Kanban vs Scrum" idea – but I'll give you my personal 2 cents.
 
 Estimates are a necessary component of running a business. We need to have an idea of how soon we can have a feature in the customer's hands. If we’ve concluded a feature can add $150,000 of revenue each year, that may be great if it takes 2 weeks to get it out the door, but is a horrible time investment if it will take 2 years to complete.
 

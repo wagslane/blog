@@ -4,9 +4,7 @@ images:
  - /img/800/profilephoto.png.webp
 ---
 
-## Current projects
-
-I'm building [Boot.dev](https://boot.dev) because I believe e-learning for back-end developers is a neglected area of focus and should include more computer science fundamentals. E-learning for programmers can be a lot better by mixing the most appropriate mediums of learning. Learning should feel like a game, and it should be *very* hands-on.
+I've been writing code since 2010, first in Python, then primarily in Go and JavaScript. I've spent most of my career as a cloud-native backend developer, but I also write React and Vue for my various side projects. After a couple of years leading teams of Go developers, I'm now working full-time on [Boot.dev](https://boot.dev) helping new developers learn back-end engineering and computer science.
 
 ## Get in touch
 
@@ -15,8 +13,9 @@ I'm building [Boot.dev](https://boot.dev) because I believe e-learning for back-
 * [GitHub](https://github.com/wagslane)
 * Email: lane at boot.dev
 
-## Podcast / show appearances
+## Podcast and show appearances
 
+* Nov 15, 2022: [JavaScript Jabber](https://topenddevs.com/podcasts/javascript-jabber)
 * Nov 08, 20022: [Views on Vue](https://topenddevs.com/podcasts/views-on-vue/episodes/vue-3-and-functional-programming-vue-202)
 * Oct 28, 2022: [Compressed.fm](https://www.youtube.com/watch?v=5RdudtFFVXE)
 * Sep 12, 2022: [Chris Sean Talks](https://podcasts.apple.com/us/podcast/lane-wagner-quit-his-200k-tech-job-to-teach-you-cs/id1516881852?i=1000579276107)
