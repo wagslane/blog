@@ -2,6 +2,7 @@
 title: Leave Scrum to Rugby, I Like Getting Stuff Done
 draft: false
 date: 2020-05-18
+lastmod: 2022-12-11
 description: Scrum is a buzzword, the virtue signal of choice for middle-management in software organizations
 author: Lane Wagner
 tags:
