@@ -13,7 +13,7 @@ I've been writing code since 2010, first in Python, then primarily in Go and Jav
 * [GitHub](https://github.com/wagslane)
 * Email: lane at boot.dev
 
-## Podcast / show appearances
+## Podcast and show appearances
 
 * Nov 15, 2022: [JavaScript Jabber](https://topenddevs.com/podcasts/javascript-jabber)
 * Nov 08, 20022: [Views on Vue](https://topenddevs.com/podcasts/views-on-vue/episodes/vue-3-and-functional-programming-vue-202)

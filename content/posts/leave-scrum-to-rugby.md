@@ -1,7 +1,6 @@
 ---
 title: Leave Scrum to Rugby, I Like Getting Stuff Done
-draft: false
-date: 2020-05-18
+date: 2022-12-11
 description: Scrum is a buzzword, the virtue signal of choice for middle-management in software organizations
 author: Lane Wagner
 tags:
@@ -13,12 +12,12 @@ series: []
 audio: []
 ---
 
-Scrum is a buzzword, the virtue signal of choice for middle-management in software organizations.
+Scrum is a buzzword, the virtue signal of choice for middle management in software organizations.
 
 If your goal as a manager is to implement a system by which you:
 
-* Speed up the appearance of progress
-* Pay for 2x the number of people you need
+* Speed up the *appearance* of progress
+* Pay for twice the amount of people you need
 * Gather approximate data based on meaningless metrics
 
 Then Scrum is exactly what you're looking for!
@@ -37,7 +36,7 @@ I like to put it more tersely:
 
 > Scrum (noun) - 1. [software] Any good process that works good
 
-Because the definition is so vague, the only things I'll be able to critique through the rest of this article are the common Scrum practices that I'm familiar with. Hopefully, some of you lovely readers can relate.
+Because the definition is so vague, the only things I'll be able to critique in this article are the common Scrum practices that I'm familiar with. Hopefully, some of you lovely readers can relate.
 
 ## Problem #2 - The "Sprint"
 
@@ -49,15 +48,22 @@ Sprints are useful like achievements in video games are useful; they make us fee
 
 I'm not against management being informed... but at what cost?
 
-Sprints require achievable short-term goals with a start and end date. To explore the potential problems, let's pretend that I'm part of a team that does two-week sprints (because the duration must be consistent) and I'm assigned to build a microservice with an API that isn't useful to end-users until the whole thing is complete. Let's also say that I estimate the whole task will take ~two months if I can work consistently.
+Sprints require achievable short-term goals with a start and end date. To explore the potential problems, let's pretend that I'm part of a team that does two-week sprints (because the duration must be consistent) and I'm assigned to build a microservice with an API. As an [absolutely hypothetical example](https://boot.dev), let's say I'm building a new achievements system for a gamified learning platform. We need new endpoints to:
+
+* View achievements
+* Unlock achievements
+* Update the leaderboard based on achievements
+* etc
+
+As it turns out, we can't user-test this system incrementally, because it's not very useful to be able to view achievements without unlocking them. So, let's also say that I estimate the whole task will take ~2 months if I work consistently on just this.
 
 ![scrum table](/img/800/scrum-table.png.webp)
 
-I need to break the API into pieces that can be completed in 2-week increments. We don't plan super far ahead in Scrum (which is good, as things change rapidly) so I just need to figure out what I can get done in my next sprint. I might be able to get some of the endpoints done quickly, but I have bugs to fix and I certainly don't want to miss my goals, so I play it safe and estimate that in this first sprint I can complete two of the endpoints.
+I need to break the API into pieces that can be completed in 2-week increments. We don't plan super far ahead in Scrum (which is good, as requirements often change rapidly) so I just need to figure out what I can get done in my next sprint. I might be able to get some of the endpoints done quickly, but I do have other bugs to fix and I certainly don't want to miss my goals, so I play it safe and estimate that in this first sprint I can complete two of the endpoints.
 
 ![scrum table 2](/img/800/scrum-table2.png.webp)
 
-This creates artificial stopping points. Rather than just continuing with the API after the first two endpoints, I'm incentivized to stop. This doesn't mean a good and honest developer actually would stop, but I'm incentivized by the system to stop. An API that could have been completed in 2 months could now take almost 4 months. Imposter syndrome starts to set in, but at least management will have pretty burndown charts.
+This creates artificial stopping points. Rather than just continuing with the API after the first two endpoints, I'm *incentivized* to stop. This doesn't mean a good and honest developer actually *would* stop, but I'm incentivized by the system to stop. An API that could have been completed in 2 months could now take almost 4 months, but hey, at least management will have pretty burndown charts.
 
 ## Problem #3 - The Scrum Master
 
@@ -128,4 +134,4 @@ If an estimate turns out to be bad it must be allowed to be re-estimated at no d
 
 ## Final Note: Agile != Scrum
 
-I'm generally a fan of agile methodologies and the [Agile Manifesto](https://agilemanifesto.org/). I'm not a fan of Scrum. In a [later article (that I've now finished)](/posts/kanban-vs-scrum/), I plan to go over my thoughts on what to do in lieu of Scrum while still running an "agile" organization.
+I'm generally a fan of agile methodologies and the [Agile Manifesto](https://agilemanifesto.org/). I'm not a fan of Scrum. In a [later article (that I've now finished)](/posts/kanban-vs-scrum/), I plan to go over my thoughts on what to do instead of Scrum while still running an "agile" organization.

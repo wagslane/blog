@@ -91,7 +91,7 @@ We have no way of knowing how much research Joseph could have done, but he must 
 
 > Other than some grammatical corrections, and a few other minor changes, you must make no modifications in the text. The first edition, as you dictate it to your secretary must stand forever.
 
-We have no reason (apart from the testimonies of those involved) to believe that Joseph dictated the entire book in one attempt. It could easily have been written over the course of many years with many drafts. Dictations could have happened simply for the sake of the charade. Additionally, the BoM *did* undergo doctrinal changes that some (albeit subjectively) consider significant. [Find some here](https://www.bible.ca/mor-1830-changes.htm) and decide for yourself.
+We have no reason (apart from the testimonies of those involved) to believe that Joseph dictated the entire book in one attempt. It could easily have been written over many years with many drafts. Dictations could have happened simply for the sake of the charade. Additionally, the BoM *did* undergo doctrinal changes that some (albeit subjectively) consider significant. [Find some here](https://www.bible.ca/mor-1830-changes.htm) and decide for yourself.
 
 > Thousands of great men, intellectual giants, national and international personalities, and scholars must accept your history and its teachings as true.
 

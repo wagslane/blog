@@ -8,7 +8,7 @@ images:
   - /img/800/say-no.webp.webp
 ---
 
-Saying "no" is hard skill to learn. It's even harder if you tend to be a more introverted person, but learn how to say "no" effectively can help your career. I certainly have struggled over the years with saying "no" as a programmer, after all, wouldn't a *good programmer*{{< superscript "tm" >}} be able to do *anything*?
+Saying "no" is a hard skill to learn. It's even harder if you tend to be a more introverted person. However, learning how to say "no" effectively can help your career. I certainly have struggled over the years with saying "no" as a programmer, after all, wouldn't a *good programmer*{{< superscript "tm" >}} be able to do *anything*?
 
 Let's look at some example scenarios where perhaps you should be saying "no" more often.
 
@@ -22,9 +22,9 @@ In theory, it goes like this:
 2. The Engineering team knows how long feature X will take to release: (B).
 3. The two parties talk it over, perform an `A/B` calculation, and the product team decides whether or not building the feature is a worthwhile investment of resources.
 
-There are several things that can go wrong here, but the least obvious, and perhaps most dangerous, is that **engineer's egos are attached to the estimates**. As a result, estimates are often too short, and business decisions are made using less-than-ideal data. This can be exacerbated by the fact that product managers' egos are attached to their new feature ideas, meaning that "A" in the A/B calculation is larger than it should be while "B" is smaller than it should be. The end result is features being built that should have been identified earlier as bad investments.
+Several things can go wrong here, but the least obvious, and perhaps most dangerous, is that **engineers egos are attached to the estimates**. As a result, estimates are often too short, and business decisions are made using less-than-ideal data. This can be exacerbated by the fact that product managers' egos are attached to their new feature ideas, meaning that "A" in the A/B calculation is larger than it should be while "B" is smaller than it should be. The result is that features are built that should have been identified earlier as bad investments.
 
-When an eager product manager is telling you that a cool new feature will double the company's revenues, it can be hard to have the guts to tell them the truth about how long you think it will take to build. You may be tempted to tell them it can be done faster than you think. You'll just work extra hard, maybe even on weekends, in order to deliver on time, right?
+When an eager product manager is telling you that a cool new feature will double the company's revenues, it can be hard to have the guts to tell them the truth about how long you think it will take to build. You may be tempted to tell them it can be done faster than you think. You'll just work extra hard, maybe even on weekends, to deliver on time, right?
 
 **Please don't shorten your estimates due to business pressures.**
 
@@ -40,19 +40,19 @@ Don't be afraid to push back when you feel you don't have enough information to 
 
 ## Say "no" to functionality that belongs in another team's codebase
 
-At larger companies, it's often the case the different teams manage different services and pieces of the company's IT infrastructure. When a new feature needs to be added, the product team may not know which engineering team(s) should be working on it. As the engineers get together to discuss, again, it can be tempting to volunteer for the feature, maybe your team even has extra bandwidth and the other teams are swamped! It's okay to step in and help, but only if doing so also happens to result in a sane technical architecture. Let's look at an example.
+At larger companies, it's often the case that different teams manage different services and pieces of the company's IT infrastructure. When a new feature needs to be added, the product team may not know which engineering team(s) should be working on it. As the engineers get together to discuss, again, it can be tempting to volunteer for the feature, maybe your team even has extra bandwidth and the other teams are swamped! It's okay to step in and help, but only if doing so also happens to result in a sane technical architecture. Let's look at an example.
 
 * Team A is in charge of the "outgoing emails" service
 * Your team, team B, is in charge of the "users" service
-* Team A is super busy, and product needs new email sequence features
+* Team A is super busy, and the product team needs new email sequence features
 
 If team "A" weren't so busy, they would be building the new email sequences, but they *are* busy, so you decide to volunteer your team - after all, the "users" service is stable and your team has the bandwidth for the work. Additionally, you decide that your team doesn't have the domain expertise to make changes to the "outgoing emails" service, so you'll just add some new dependencies and get the "users" service to send those email sequences.
 
-The problem with this reasoning is that it creates a sub-par technical architecture. You made a bad technical decision in order to speed things up in the short term. Almost certainly, sometime in the future, someone is going to have to move all that logic back into the part of the system that it belongs in for one reason or another.
+The problem with this reasoning is that it creates a sub-par technical architecture. You made a bad technical decision to speed things up in the short term. Almost certainly, sometime in the future, someone is going to have to move all that logic back into the part of the system that it belongs in for one reason or another.
 
 ## Say "no" to application-specific requests in your shared libraries
 
-I think it is *really good* code architecture practice for developers to maintain some kind of shared library. When you only work on application code, it can be hard to understand why it's important to separate concerns properly. For example, if your React webapp needs to make API calls to a backend server, why not just do an inline [fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)?
+I think it is *really good* architecture practice for developers to maintain some kind of shared library. When you only work on application code, it can be hard to understand why it's important to separate concerns properly. For example, if your React app needs to make API calls to a backend server, why not just do an inline [fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)?
 
 After working on a codebase that is shared by many applications, you will begin to have a better understanding of why it's important to keep application-specific concerns out of shared libraries.
 
@@ -60,7 +60,7 @@ Let's pretend you're building a simple password validation library. It exposes a
 
 > Please enter a longer password
 
-The problem is, each application will likely have *different* thresholds! Additionally, it's a near-certainty that even if you write fairly generic error messages, many applications will want their own custom text.
+The problem is, each application will likely have *different* thresholds! Additionally, it's a near-certainty that even if you write fairly generic error messages, many applications will want custom text.
 
 The answer to these kinds of requests should be a simple "no, that's a concern of your application code".
 

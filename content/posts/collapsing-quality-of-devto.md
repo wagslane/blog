@@ -47,7 +47,7 @@ I’m definitely judging these articles by their titles, and maybe they actually
 
 I’m sure the Dev.to team has realized this is a problem, so my guess is it’s a hard one to solve. Let’s try to figure out what makes the solution so elusive.
 
-In my experience, HackerNews and /r/programming are the two best communities, at least of the larger ones, for readers to find quality programming content. The issue is that the content found there isn’t written for beginners. Dev.to made a place for newbies to write and read, but the content is getting worse and worse.
+In my experience, HackerNews and /r/programming are the two best communities, at least of the larger ones, for readers to find quality programming content. The issue is that the content found there isn’t written for beginners. Dev.to created a place for newbies to write and read, but the content is getting worse and worse.
 
 There is an important point to be made that to an experienced developer, almost all entry-level content could seem low-effort and low-quality. Let’s do our best not to fall into that trap. There is nothing inherently wrong with an article about the `map`, `filter`, and `reduce` functions, but my suspicion is that this particular article is just a worse version of what you’d find on the first page of Google.
 
@@ -66,4 +66,4 @@ I think several changes could help. Dev.to has taken queues from blogging and so
 
 ## I like the goal of Dev.to
 
-I really hope they make some changes, whether they be the ones I’ve suggested or even better ideas that the Dev team comes up with on their own. In the meantime, I won’t be reading anything on the platform because it’s just not interesting, and I also believe it’s unhelpful to new programmers. If you work for Dev.to and want to chat with me about my thoughts, feel free to reach out.
+I hope they make some changes, whether they be the ones I’ve suggested or even better ideas that the Dev team comes up with on their own. In the meantime, I won’t be reading anything on the platform because it’s just not interesting, and I also believe it’s unhelpful to new programmers. If you work for Dev.to and want to chat with me about my thoughts, feel free to reach out.
