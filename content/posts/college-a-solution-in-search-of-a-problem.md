@@ -6,7 +6,7 @@ author: Lane Wagner
 tags:
  - education
 images:
-- /img/800/photo-1567095751004-aa51a2690368.avif.webp
+- /img/800/uniersirtycrumble.png.webp
 imagesAlts:
 - 'Genrated by Stable Diffusion with prompt: "old university, end of the world sci fi cinematic"'
 videos: []
