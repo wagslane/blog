@@ -1,6 +1,6 @@
 ---
 title: The Zen of Proverbs
-date: 2022-01-08
+date: 2023-01-08
 author: Lane Wagner
 tags:
  - clean-code
