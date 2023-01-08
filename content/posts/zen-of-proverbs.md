@@ -11,7 +11,7 @@ series: []
 audio: []
 ---
 
-20 of my rules of thumb for writing better software.
+20 rules of thumb for writing better software.
 
 * Optimize for simplicity first
 * Write code for humans, not computers
