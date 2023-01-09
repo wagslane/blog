@@ -23,9 +23,9 @@ audio: []
 * Libraries are better than frameworks
 * Transitive dependencies are a problem
 * Dynamic runtime dependencies are a bigger problem
-* The surface area of an API is a liability
+* API surface area is a liability
 * Returning early is a good thing
-* Plain text is usually best
+* Use more plain text
 * Compiler errors are better than runtime errors
 * Runtime errors are better than bugs
 * Tooling is better than documentation
