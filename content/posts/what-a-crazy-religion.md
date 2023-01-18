@@ -1,5 +1,5 @@
 ---
-title: The Craziest Thing to Hear After Leaving Mornmonism
+title: The Craziest Thing to Hear After Leaving Mormonism
 draft: false
 date: 2022-03-05
 description: Your religion isn't the only sane one
