@@ -1,8 +1,8 @@
 ---
 title: About Lane Wagner
-images:
- - /img/800/headshot.png.webp.webp
 ---
+
+![Lane Wagner](/img/800/headshot.png.webp.webp)
 
 I've been writing code since 2010, first in Python, then primarily in Go and JavaScript. I've spent most of my career as a backend developer and data engineer. After a couple of years leading teams of Go developers, I'm now working full-time on [Boot.dev](https://boot.dev). I help new developers learn back-end development and start successful careers.
 
