@@ -1,10 +1,10 @@
 ---
 title: About Lane Wagner
 images:
- - /img/800/profilephoto.png.webp
+ - /img/800/headshot.png.webp.webp
 ---
 
-I've been writing code since 2010, first in Python, then primarily in Go and JavaScript. I've spent most of my career as a cloud-native backend developer, but I also write React and Vue for my various side projects. After a couple of years leading teams of Go developers, I'm now working full-time on [Boot.dev](https://boot.dev) helping new developers learn back-end engineering and computer science.
+I've been writing code since 2010, first in Python, then primarily in Go and JavaScript. I've spent most of my career as a backend developer and data engineer. After a couple of years leading teams of Go developers, I'm now working full-time on [Boot.dev](https://boot.dev). I help new developers learn back-end development and start successful careers.
 
 ## Get in touch
 
@@ -15,6 +15,8 @@ I've been writing code since 2010, first in Python, then primarily in Go and Jav
 
 ## Podcast and show appearances
 
+* Jan 30, 2023: [HTTP Course on FreeCodeCamp's YouTube](https://www.youtube.com/watch?v=2JYT5f2isg4)
+* Jan 20, 2023: [Coding with Eddie Jaoude](https://www.youtube.com/watch?v=udzoQQQNSfQ)
 * Nov 15, 2022: [JavaScript Jabber](https://topenddevs.com/podcasts/javascript-jabber)
 * Nov 08, 20022: [Views on Vue](https://topenddevs.com/podcasts/views-on-vue/episodes/vue-3-and-functional-programming-vue-202)
 * Oct 28, 2022: [Compressed.fm](https://www.youtube.com/watch?v=5RdudtFFVXE)
