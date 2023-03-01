@@ -15,6 +15,7 @@ I've been writing code since 2010, first in Python, then primarily in Go and Jav
 
 ## Podcast and show appearances
 
+* Feb 28, 2023: [Scrimba Podcast](https://scrimba.com/podcast/tech-layoffs-are-still-happening-and-chatgpt-can-code-how-to-stay-ahead-of-the-curve-as-a-new-developer-with-lane-wagner/)
 * Jan 30, 2023: [HTTP Course on FreeCodeCamp's YouTube](https://www.youtube.com/watch?v=2JYT5f2isg4)
 * Jan 20, 2023: [Coding with Eddie Jaoude](https://www.youtube.com/watch?v=udzoQQQNSfQ)
 * Nov 15, 2022: [JavaScript Jabber](https://topenddevs.com/podcasts/javascript-jabber)
