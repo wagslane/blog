@@ -15,6 +15,8 @@ I've been writing code since 2010, first in Python, then primarily in Go and Jav
 
 ## Podcast and show appearances
 
+* May 15, 2023: [Cup o' Go Podcast](https://cupogo.dev/episodes/survey-says-i-use-linux-also-cons-proposals-releases-and-an-interview-with-lane-wagner)
+* May 11, 2023: [Adventures in DevOps](https://topenddevs.com/podcasts/adventures-in-devops/episodes/what-it-takes-to-be-a-devops-engineer-devops-162)
 * April 21, 2023: [All the Code Podcast](https://share.transistor.fm/s/3328b1f8)
 * Feb 28, 2023: [Scrimba Podcast](https://scrimba.com/podcast/tech-layoffs-are-still-happening-and-chatgpt-can-code-how-to-stay-ahead-of-the-curve-as-a-new-developer-with-lane-wagner/)
 * Jan 30, 2023: [HTTP Course on FreeCodeCamp's YouTube](https://www.youtube.com/watch?v=2JYT5f2isg4)
