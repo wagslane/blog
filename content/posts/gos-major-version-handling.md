@@ -62,7 +62,7 @@ In other words, for every major version, we are encouraged to maintain a new cop
 
 ### The second way
 
-The second option is to change the name of your module in `go.mod`. Fore example, `module github.com/wagslane/go-tinydate` would become `module github.com/wagslane/go-tinydate/v2`. Besides this not working for older versions of Go, I also find it problematic because it breaks (in my mind) one of the most useful things about module names - they reflect the file path. I tend to choose the first option as recommended.
+The second option is to change the name of your module in `go.mod`. For example, `module github.com/wagslane/go-tinydate` would become `module github.com/wagslane/go-tinydate/v2`. Besides this not working for older versions of Go, I also find it problematic because it breaks (in my mind) one of the most useful things about module names - they reflect the file path. I tend to choose the first option as recommended.
 
 ### Why does this suck?
 
