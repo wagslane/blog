@@ -1,10 +1,10 @@
 ---
 title: About Lane Wagner
+images:
+ - /img/800/headshot.png.webp.webp
 ---
 
-![Lane Wagner](/img/800/headshot.png.webp.webp)
-
-I've been writing code since 2010, first in Python, then primarily in Go and JavaScript. I've spent most of my career as a backend developer and data engineer. After a couple of years leading teams of Go developers, I'm now working full-time on [Boot.dev](https://boot.dev). I help new developers learn back-end development and start successful careers.
+I've been writing code since 2010, first in Python, then primarily in Go and JS/TS. I've spent most of my career as a backend developer and data engineer. After a couple of years leading teams of Go developers, I'm now working full-time on [Boot.dev](https://boot.dev) and host the [Backend Banter podcast](https://www.backendbanter.fm).
 
 ## Get in touch
 
@@ -15,8 +15,10 @@ I've been writing code since 2010, first in Python, then primarily in Go and Jav
 
 ## Podcast and show appearances
 
+* August 2, 2023: [Ardan Labs Podcast](https://podcasts.apple.com/us/podcast/boot-dev-education-and-go-with-lane-wagner/id1539547911?i=1000623207522)
 * May 15, 2023: [Cup o' Go Podcast](https://cupogo.dev/episodes/survey-says-i-use-linux-also-cons-proposals-releases-and-an-interview-with-lane-wagner)
 * May 11, 2023: [Adventures in DevOps](https://topenddevs.com/podcasts/adventures-in-devops/episodes/what-it-takes-to-be-a-devops-engineer-devops-162)
+* April 27, 2023: [Indie Hackers Podcast](https://share.transistor.fm/s/50741aa5)
 * April 21, 2023: [All the Code Podcast](https://share.transistor.fm/s/3328b1f8)
 * Feb 28, 2023: [Scrimba Podcast](https://scrimba.com/podcast/tech-layoffs-are-still-happening-and-chatgpt-can-code-how-to-stay-ahead-of-the-curve-as-a-new-developer-with-lane-wagner/)
 * Jan 30, 2023: [HTTP Course on FreeCodeCamp's YouTube](https://www.youtube.com/watch?v=2JYT5f2isg4)
