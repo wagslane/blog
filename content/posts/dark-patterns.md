@@ -52,12 +52,12 @@ Here are some stats:
 
 ## Let your customers quit
 
-I'm a software engineer, and for the last couple of years I've had a little side business on [Boot.dev where I publish computer science courses.](https://boot.dev) It's a subscription-based model with a single lifetime payment option for those who hate the hassle of subscriptions like I do. Cancelling is *really easy*. You go to your settings page and click a button. You do not need to:
+I'm a software engineer, and for the last couple of years I've had a little side business on [Boot.dev where I publish computer science courses.](https://boot.dev) It's a subscription-based model. Cancelling is *really easy*. You go to your settings page and click a button. You do not need to:
 
 * Call me during business hours
 * Send me an email
 * Pay a cancellation fee
-* Sacrifice to me your first-born son
+* Sacrifice your first-born son
 
 If you don't want to use my product anymore, *I don't want you paying me*. Maybe it's easy to possess *the absolute minimum amount of business ethics* as a small operation with only two people, but after last night, I couldn't live with myself if I worked for a company that did business any other way. And to be clear, I'm not flexing about my lofty personal morality here. I think *most people* are inherently fair-minded in this way. There is something special about how large corporations are able to do terribly unethical things while the humans inside don't feel personally responsible.
 
